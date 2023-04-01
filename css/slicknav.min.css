@@ -30,7 +30,7 @@
 	display: block;
 	line-height: 1.188em;
 	float: left;
-	color: #fff;
+	color: #ffffff;
 	font-weight: 700;
 	text-shadow: 0 1px 3px #000;
 }
@@ -115,7 +115,7 @@
 }
 
 .slicknav_menu .slicknav_icon-bar {
-	background-color: #fff;
+	background-color: #ffffff;
 }
 
 .slicknav_btn {
@@ -130,7 +130,7 @@
 
 .slicknav_nav {
 	clear: both;
-	color: #fff;
+	color: #ffffff;
 	margin: 0;
 	font-size: 0.875em;
 }

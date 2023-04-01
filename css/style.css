@@ -462,7 +462,7 @@ ol {
 .hero__text .label {
 	font-size: 13px;
 	color: #e53637;
-	background: #ffffff;
+	background: #f3f3f3;
 	padding: 5px 14px 3px;
 	display: inline-block;
 	position: relative;
@@ -474,7 +474,7 @@ ol {
 }
 
 .hero__text h2 {
-	color: #ffffff;
+	color: #5a0c0c;
 	font-size: 42px;
 	font-family: "Oswald", sans-serif;
 	font-weight: 700;
@@ -490,7 +490,7 @@ ol {
 }
 
 .hero__text p {
-	color: #ffffff;
+	color: #f3f1f3;
 	font-size: 16px;
 	margin-bottom: 40px;
 	position: relative;
