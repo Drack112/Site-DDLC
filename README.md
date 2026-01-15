@@ -2,22 +2,15 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://doki-doki-translate-company.webnode.com/_files/200000000-b8bc1b8bc3/200/logo_DDTC_4K.png" alt="Logo" width="80" height="80">
+    <img src="/system/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Site Doki Doki Translate</h3>
+  <h3 align="center">Mirai Translations®</h3>
 
   <p align="center">
-    O reposítorio oficial da comunidade de traduções de mods de Doki Doki
+    O repositório oficial da comunidade de traduções de mods e jogos
     <br />
     <a href="#"><strong>Acessar o nosso site »</strong></a>
-    <br />
-    <br />
-    <a href="https://discord.gg/3PB24jt">Discord</a>
-    ·
-    <a href="https://github.com/Drack112/site-ddlc/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Drack112/site-ddlc/issuess">Request Feature</a>
   </p>
 </p>
 
@@ -25,29 +18,45 @@
 
 ## Sobre o projeto
 
-<img src="https://i.imgur.com/SKnz1oI.png">
+O objetivo deste repositório é fornecer uma plataforma moderna e organizada para a comunidade de traduções de mods e jogos.
 
-O objetivo desse repositório é reformular e refazer passo por passo o antigo site Doki Doki Translate Club
+O projeto foi desenvolvido com foco em:
 
-Motivos:
+- Interface limpa e responsiva
+- Organização eficiente de conteúdo
+- Experiência de usuário otimizada
+- Estrutura de código bem organizada
 
-- O antigo site estava mal estruturado
-- Um design que necessitava de ajustes
-- E uma pequeno reajuste e organização na parte dos mods
-
-O projeto ainda está em desenvolvimento, porém alguns dos trabalhos difíceis ja foram feitos e ja podem deixar o mesmo mais fácil.
+O projeto está em constante desenvolvimento e melhorias são implementadas regularmente.
 
 ### Ferramentas usadas
 
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [HTML5]()
+- [CSS3]()
 - [JavaScript]()
-- [HTML]()
-- [CSS]()
-- [SCSS]()
+- [Font Awesome](https://fontawesome.com) - Ícones
+
+### Estrutura do Projeto
+
+```
+Site-DDLC/
+├── system/           # Arquivos do sistema
+│   ├── css/         # Estilos
+│   ├── js/          # Scripts JavaScript
+│   ├── html/        # Páginas HTML
+│   ├── img/         # Imagens e recursos visuais
+│   ├── data/        # Dados do projeto
+│   └── DOKS/        # Documentação
+├── index.html       # Página principal
+└── LICENSE          # Licença
+```
 
 <!-- LICENSE -->
 
 ## License
 
 Verifique o arquivo `LICENSE` para analisar as permissões sobre o modelo distribuído.
+
+---
+
+> 📖 **Para mais informações sobre o projeto, consulte:** [`system/DOKS/INFRO.md`](system/DOKS/INFRO.md)

@@ -1,0 +1,2830 @@
+{
+  "maintainer": "Mirai Translations (comunidade)",
+  "system/html": [
+    {
+      "id": "2nd-anniversary",
+      "title": "2nd Anniversary",
+      "description": {
+        "short": "O protagonista e a Sayori chegam ao clube como de costume. No entanto, hoje é um dia especial porque é o 2º aniversário do clube! Eles vão até a sala do clube para encontrar tudo decorado. Então, a ma",
+        "long": "O protagonista e a Sayori chegam ao clube como de costume. No entanto,\n\t\t\t\t\t\t\t\t\thoje é um dia especial porque é o 2º aniversário do clube! Eles vão até\n\t\t\t\t\t\t\t\t\ta sala do clube para encontrar tudo decorado. Então, a maré muda quando\n\t\t\t\t\t\t\t\t\talguns visitantes inesperados chegam ao clube..."
+      },
+      "category": [
+        "Comédia"
+      ],
+      "duration": "Muito curto",
+      "status": "Ativo",
+      "developer": "Enderslayer197",
+      "translation": {
+        "translator": "Patono",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/ddlc__2nd_anniversary_by_alicevu134_ddgrv73-fullview.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/ddlc__2nd_anniversary_by_alicevu134_ddgrv73-fullview.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/ew1yi00tv1aag5h/2nd+anniversary.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/2nd-Anniversary.html"
+      }
+    },
+    {
+      "id": "a-brand-new-day",
+      "title": "A Brand New Day",
+      "description": {
+        "short": "Sayori forçou nosso protagonista a se juntar ao Clube de Literatura. No entanto, ele continua sentindo aquela sensação de déjà vu. Ele logo descobre os problemas secretos das garotas e, como a pessoa ",
+        "long": "Sayori forçou nosso protagonista a se juntar ao Clube de Literatura. No\n\t\t\t\t\t\t\t\t\tentanto, ele continua sentindo aquela sensação de déjà vu. Ele logo\n\t\t\t\t\t\t\t\t\tdescobre os problemas secretos das garotas e, como a pessoa prestativa\n\t\t\t\t\t\t\t\t\tque é, heroicamente as salva de quaisquer problemas que elas tenham.\n\t\t\t\t\t\t\t\t\tEles são sempre gratos e ele ganha o carinho de todas as meninas! Isso\n\t\t\t\t\t\t\t\t\tnão é tudo nesta história. Há algo ainda maior acontecendo nos\n\t\t\t\t\t\t\t\t\tbastidores que pode custar a vida deles! Será que ele conseguirá\n\t\t\t\t\t\t\t\t\tsalvá-los de verdade? Descubra em um novo dia!"
+      },
+      "category": [
+        "Drama",
+        "Comédia"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "Phantom",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/brand.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/brand.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/2k3afzwont3vma8/A+Brand+New+Day.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/36zvstv49k09lqq/DDLC_ABrandNewDay_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "BTzin",
+          "link": "#"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/A-Brand-New-Day.html"
+      }
+    },
+    {
+      "id": "a-father-redemption-2",
+      "title": "A Father Redemption 2",
+      "description": {
+        "short": "Segundo capitulo do MOD A Father Redemption, Veja mais sobre o passado do Pai da Natsuki nesse capitulo.",
+        "long": "Segundo capitulo do MOD A Father Redemption, Veja mais sobre o passado\n\t\t\t\t\t\t\t\t\tdo Pai da Natsuki nesse capitulo. AVISO:Esse mod está com os arquivos soltos, não esta\n\t\t\t\t\t\t\t\t\tem RPA devido a um BUG que acontece quando os arquivos são compactados,\n\t\t\t\t\t\t\t\t\tnão sei se são os arquivos ou se é incompetência minha (Rance Sama)\n\t\t\t\t\t\t\t\t\tentão ate eu resolver esse problema, os arquivo não vão esta em RPA.\n\t\t\t\t\t\t\t\t\tDelete o Arquivo \"Scripts.rpa\" para o MOD abrir."
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Tristeza"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Team Mod Squad",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/father-redemption-2.png",
+        "og": "https://storage.googleapis.com/production-hostgator-brasil-v1-0-5/215/297215/T1Nq6WG0/cbe773249c14419abee6f5c2a4e9c71f"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/pb8voa7xnhxc953/A_Father_Redemption-Capitulo_2.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Esse mod está com os arquivos soltos, não esta\n\t\t\t\t\t\t\t\t\tem RPA devido a um BUG que acontece quando os arquivos são compactados,\n\t\t\t\t\t\t\t\t\tnão sei se são os arquivos ou se é incompetência minha (Rance Sama)\n\t\t\t\t\t\t\t\t\tentão ate eu resolver esse problema, os arquivo não vão esta em RPA.\n\t\t\t\t\t\t\t\t\tDelete o Arquivo \"Scripts.rpa\" para o MOD abrir."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/A-Father-Redemption-2.html"
+      }
+    },
+    {
+      "id": "a-father-redemption",
+      "title": "A Father Redemption",
+      "description": {
+        "short": "Nesta história, experimente o mundo como um homem que foi quebrado. A família dele o odeia, ele não pode sustentar a filha. Ele só quer melhorar, ele fará qualquer coisa para recuperar a confiança de ",
+        "long": "Nesta história, experimente o mundo como um homem que foi quebrado. A\n\t\t\t\t\t\t\t\t\tfamília dele o odeia, ele não pode sustentar a filha. Ele só quer\n\t\t\t\t\t\t\t\t\tmelhorar, ele fará qualquer coisa para recuperar a confiança de sua\n\t\t\t\t\t\t\t\t\tfamília. AVISO:Delete o \"Images.rpa\" da pasta \"game\" se não o\n\t\t\t\t\t\t\t\t\tMOD vai bugar."
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Tristeza"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Team Mod Squad",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/father-redemption-1.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/father-redemption-1.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/tudnuhsy52aaq24/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Delete o \"Images.rpa\" da pasta \"game\" se não o\n\t\t\t\t\t\t\t\t\tMOD vai bugar."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/A-Father-Redemption.html"
+      }
+    },
+    {
+      "id": "a-slice-of-liven",
+      "title": "A Slice Of Liven",
+      "description": {
+        "short": "Como o nome indica, é um Slice Of Life,Com arrependimento fluindo nas veias de Monika, e os membros do clube presos no vazio de exclusão, Doki Doki: A Slice Of Life cria uma nova abordagem da história",
+        "long": "Como o nome indica, é um Slice Of Life,Com arrependimento fluindo nas\n\t\t\t\t\t\t\t\t\tveias de Monika, e os membros do clube presos no vazio de exclusão,\n\t\t\t\t\t\t\t\t\tDoki Doki: A Slice Of Life cria uma nova abordagem da história de DDLC.\n\t\t\t\t\t\t\t\t\tO que fará nosso protagonista, quando tiver outra chance de salvar\n\t\t\t\t\t\t\t\t\taqueles que ama?"
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Felicidade"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "kmsrocks1 e ogsnakebone",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Miki"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/slace-of-life.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/slace-of-life.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/yfqqyoi7gz5nzk8/Doki+Doki+Slice+Of+Life.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/A-Slice-Of-Live.html"
+      }
+    },
+    {
+      "id": "after-school",
+      "title": "After School",
+      "description": {
+        "short": "A história se passa meia década após o fim do Clube de Literatura, onde nosso personagem principal voltou para casa da universidade. Um encontro casual com uma velha amiga desperta o desejo de reunir ",
+        "long": "A história se passa meia década após o fim do Clube de Literatura, onde\n\t\t\t\t\t\t\t\t\tnosso personagem principal voltou para casa da universidade. Um\n\t\t\t\t\t\t\t\t\tencontro casual com uma velha amiga desperta o desejo de reunir o\n\t\t\t\t\t\t\t\t\tclube; uma chance para os amigos se relacionarem mais uma vez. No\n\t\t\t\t\t\t\t\t\tentanto, cada um deles deve lidar com as duras realidades da vida\n\t\t\t\t\t\t\t\t\tadulta e o fascínio nostálgico de tempos mais simples."
+      },
+      "category": [
+        "Drama",
+        "Romance"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "Wretched Team",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/afterschool.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/afterschool2.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/0mfoxbwncr32ftu/Tradu%25C3%25A7%25C3%25A3o_After_School.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/trm8vglyupjn4q1/DDLC_AfterSchool_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "BTzin",
+          "link": "#"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/After-School.html"
+      }
+    },
+    {
+      "id": "another-moment-with-you",
+      "title": "Another Moment With You",
+      "description": {
+        "short": "Another Moment With You é uma experiência episodica Muito interessante. Cada episódio o forçará a viajar através dos demônios internos que atormentam as quatro garotas, permitindo que você veja as coi",
+        "long": "Another Moment With You é uma experiência episodica Muito interessante.\n\t\t\t\t\t\t\t\t\tCada episódio o forçará a viajar através dos demônios internos que\n\t\t\t\t\t\t\t\t\tatormentam as quatro garotas, permitindo que você veja as coisas de\n\t\t\t\t\t\t\t\t\tsuas perspectivas e se coloque em seu lugar. Focando puramente no\n\t\t\t\t\t\t\t\t\tdesign da história abrangente, Another Moment With You é uma\n\t\t\t\t\t\t\t\t\texperiência comovente e emocional que o deixará fisgado desde o início. Episódio 4: Monika ((Em desenvolvimento))"
+      },
+      "category": [
+        "Drama",
+        "Romance",
+        "Tristeza"
+      ],
+      "duration": "Mediano",
+      "status": "Ativo",
+      "developer": "Guardian_Bravo",
+      "translation": {
+        "translator": "Suky",
+        "reviewer": "Suky e PK"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/another-moment.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/another-moment.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/7co8b0jt9uaoyuc/Another+moment+With+you+BR.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Another-Moment-With-You.html"
+      }
+    },
+    {
+      "id": "britain-club",
+      "title": "Britain Club",
+      "description": {
+        "short": "Ei, gente, esse mod fala sobre chá. Mentira, não nos resumimos apenas a Liverpool, Shrophire, Blackpool e chá, é sobre a velha Inglaterra!",
+        "long": "Ei, gente, esse mod fala sobre chá. Mentira, não nos resumimos apenas a\n\t\t\t\t\t\t\t\t\tLiverpool, Shrophire, Blackpool e chá, é sobre a velha Inglaterra!"
+      },
+      "category": [
+        "Humor",
+        "Shitpost"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Soriinz#7176",
+      "translation": {
+        "translator": "Suky Love, Rance Sama",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Britain-Club.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Britain-Club.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/iqe2zbzeqa2wqv5/Britain+Club.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Britain-Club.html"
+      }
+    },
+    {
+      "id": "ddlc-ace-attorney",
+      "title": "DDLC Ace Attorney",
+      "description": {
+        "short": "Yuri foi assassinada e a Sayori, defenda ela com todas as evidencias que possui, e faça uma reviravolta descobrindo o verdadeiro assassino da Yuri.",
+        "long": "Yuri foi assassinada e Sayori é a principal suspeita. Defenda-a com\n\t\t\t\t\t\t\t\t\ttodas as evidências que possui e faça uma reviravolta para solucionar\n\t\t\t\t\t\t\t\t\teste mistério!"
+      },
+      "category": [
+        "Humor"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "TheDokiAttorney",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/ddlc-ace-attorney.png",
+        "og": "https://doki-doki-translate-company.webnode.com/_files/200000028-6667766679/700/ace-attorney-backgrounds-1.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/ldwr14tbrj7c9l4/Tradu%25C3%25A7%25C3%25A3o_DDLC_Ace_Attorney.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DDLC-Ace-Attorney.html"
+      }
+    },
+    {
+      "id": "ddlc-malignancy",
+      "title": "DDLC Malignancy",
+      "description": {
+        "short": "Nossa equipe Mod (Team BigG Hero 8) trabalhou muito nisso por dois dias inteiros. Este pode ser o primeiro mod já criado no período de 48 horas com uma equipe de mais de 8 pessoas. Como você pode ver,",
+        "long": "Nossa equipe Mod (Team BigG Hero 8) trabalhou muito nisso por dois dias\n\t\t\t\t\t\t\t\t\tinteiros. Este pode ser o primeiro mod já criado no período de 48 horas\n\t\t\t\t\t\t\t\t\tcom uma equipe de mais de 8 pessoas. Como você pode ver, temos novos\n\t\t\t\t\t\t\t\t\tcenários e espantosidade."
+      },
+      "category": [
+        "Humor"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Team BigG Hero 8",
+      "translation": {
+        "translator": "TxRox13",
+        "reviewer": "TxRox13"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/ddlc-malignacy.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/ddlc-malignacy.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/8k48tf0agdsbmvn/Doki+Doki+Malignancy.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DDLC-Malignancy.html"
+      }
+    },
+    {
+      "id": "ddlc-nightmare",
+      "title": "DDLC Nightmare",
+      "description": {
+        "short": "Toda escolha que você faz tem uma consequência, seja boa ou ruim. De um lado, poderia ser a melhor coisa que já aconteceu com você em sua vida, mas e se não? Feito por ocasião de um desafio de modific",
+        "long": "Toda escolha que você faz tem uma consequência, seja boa ou ruim. De um\n\t\t\t\t\t\t\t\t\tlado, poderia ser a melhor coisa que já aconteceu com você em sua vida,\n\t\t\t\t\t\t\t\t\tmas e se não? Feito por ocasião de um desafio de modificação\n\t\t\t\t\t\t\t\t\tprogramada, este mod foi criado em apenas 9 horas. Você está preparado\n\t\t\t\t\t\t\t\t\tpara um pesadelo?"
+      },
+      "category": [
+        "Terror",
+        "Drama"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Team AI (TrueLoverofMonika e\n\t\t\t\t\t\t\t\t\t\t\t\t\tBoiSourish)",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/nightmare.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/nightmare.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/2q3719ece3zfnv3/Nightmare_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/n7v1id5m9g3i20a/DDLC_Nightmare_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "BTzin",
+          "link": "#"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/DDLC-Nightmare.html"
+      }
+    },
+    {
+      "id": "ddlc-normal-vn",
+      "title": "DDLC Normal VN",
+      "description": {
+        "short": "E se DDLC fosse o que todos esperávamos dele: uma visual novel divertida e feliz, onde você pode namorar uma das quatro garotas oferecidas no jogo? E se Monika tivesse sua própria rota desde o início,",
+        "long": "E se DDLC fosse o que todos esperávamos dele: uma visual novel\n\t\t\t\t\t\t\t\t\tdivertida e feliz, onde você pode namorar uma das quatro garotas\n\t\t\t\t\t\t\t\t\toferecidas no jogo? E se Monika tivesse sua própria rota desde o\n\t\t\t\t\t\t\t\t\tinício, e nunca deletasse ninguém?"
+      },
+      "category": [
+        "Comédia",
+        "Romance"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Skull217",
+      "translation": {
+        "translator": "Vini SD",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/DDLC_Normal_VN.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/DDLC_Normal_VN.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/uwm6ghwovljj4et/Normal_VN.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DDLC-Normal-VN.html"
+      }
+    },
+    {
+      "id": "ddlc-salvation",
+      "title": "DDLC Salvation",
+      "description": {
+        "short": "E se as coisas pudessem ser diferentes? E se você pudesse salvá-la? Esta questão atormentou a mente da maioria das pessoas depois de terminar o primeiro ato de DDLC. A salvação continua respondendo a ",
+        "long": "E se as coisas pudessem ser diferentes? E se você pudesse salvá-la?\n\t\t\t\t\t\t\t\t\tEsta questão atormentou a mente da maioria das pessoas depois de\n\t\t\t\t\t\t\t\t\tterminar o primeiro ato de DDLC. A salvação continua respondendo a essa\n\t\t\t\t\t\t\t\t\tpergunta. Depois de evitar por pouco uma tragédia, os membros do clube\n\t\t\t\t\t\t\t\t\tsofrem um acidente. Monika é forçada a ficar no hospital e Sayori tem\n\t\t\t\t\t\t\t\t\tque assumir o manto de presidente do clube em sua ausência. No entanto,\n\t\t\t\t\t\t\t\t\tconforme você se aproxima das outras garotas, Monika tem que perceber\n\t\t\t\t\t\t\t\t\tuma verdade sombria. Até onde você está disposto a ir para salvá-las?\n\t\t\t\t\t\t\t\t\tVocê tem o que é preciso para ser a salvação dela?"
+      },
+      "category": [
+        "Drama",
+        "Romance",
+        "Tristeza"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "12Gizguy6",
+      "translation": {
+        "translator": "Hero",
+        "reviewer": "Dado e Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/salvation.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/salvation.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/np9ve9ndcyc47vn/Doki_Doki_Salvation_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/jm26wfytzr0fk2h/DokiDokiSalvation_1.1_(Português).apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/DDLC-Salvation.html"
+      }
+    },
+    {
+      "id": "ddlc-starry-eyed",
+      "title": "DDLC Starry Eyed",
+      "description": {
+        "short": "Um mod curto e alegre. Sayori e MC estão em um relacionamento antes do MC entrar para o clube de literatura, mas ultimamente tem havido alguns problemas no paraíso. E quando Monika aparece na casa de ",
+        "long": "Um mod curto e alegre. Sayori e MC estão em um relacionamento antes do\n\t\t\t\t\t\t\t\t\tMC entrar para o clube de literatura, mas ultimamente tem havido alguns\n\t\t\t\t\t\t\t\t\tproblemas no paraíso. E quando Monika aparece na casa de MC para\n\t\t\t\t\t\t\t\t\tdesabafar seus problemas, mal-entendidos podem acontecer. Eles vão\n\t\t\t\t\t\t\t\t\tconsertar as coisas? O que a Yuri e Natsuki acham de tudo isso?\n\t\t\t\t\t\t\t\t\tDescubra neste mod DDLC curto e com estilo de Sitcom!"
+      },
+      "category": [
+        "Romance",
+        "Felicidade",
+        "Mistério",
+        "Drama"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "augfjtan97",
+      "translation": {
+        "translator": "Aiko, Ayano",
+        "reviewer": "Aiko, Ayano"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/starry-eyed.png",
+        "og": "https://preview.redd.it/769mjzu1sq961.png?width=450&format=png&auto=webp&s=120de486509765dd2c4207c995be2fc01bc27400"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/0vewqolw9s43kdg/Doki_Doki_Olhos_Estrelados.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DDLC-Starry-Eyed.html"
+      }
+    },
+    {
+      "id": "ddlc-summertime",
+      "title": "DDLC Summertime",
+      "description": {
+        "short": "Finalmente, escola acabou! Você é colocado no lugar de um jovem bonito, mas recluso. Já se passou mais de meio ano desde que você falou com sua amiga de infância, Sayori. Um dia, ela inesperadamente o",
+        "long": "Finalmente, escola acabou! Você é colocado no lugar de um jovem bonito,\n\t\t\t\t\t\t\t\t\tmas recluso. Já se passou mais de meio ano desde que você falou com sua\n\t\t\t\t\t\t\t\t\tamiga de infância, Sayori. Um dia, ela inesperadamente o convida para\n\t\t\t\t\t\t\t\t\tse juntar a ela e à oradora da turma da escola, Monika. Em uma piscina, esse evento único acabou sendo o começo de algo novo e\n\t\t\t\t\t\t\t\t\temocionante para uma das quatro garotas. Doki Doki Summertime é uma\n\t\t\t\t\t\t\t\t\tmodificação para o romance visual popular de 2017, Doki Doki Literature\n\t\t\t\t\t\t\t\t\tClub. Ao contrário do jogo original, Doki Doki Summertime é uma\n\t\t\t\t\t\t\t\t\taventura cómica onde o jogador pode ficar a conhecer a fundo todas as\n\t\t\t\t\t\t\t\t\tpersonagens. Suas interações e confissões visam mostrar seus lados humanos sem a\n\t\t\t\t\t\t\t\t\tobsessão estereotipada para o personagem principal. Ao contrário de\n\t\t\t\t\t\t\t\t\tmuitas outras modificações, este jogo evita clichês esgotados,\n\t\t\t\t\t\t\t\t\tocasionalmente até zombando deles. A progressão da história deve ser\n\t\t\t\t\t\t\t\t\tparecida com o processo natural de as pessoas se conhecerem ao longo de\n\t\t\t\t\t\t\t\t\tuma semana. Não há elementos de terror nesta história. No entanto, isso\n\t\t\t\t\t\t\t\t\tnão significa que o conflito não seja esperado."
+      },
+      "category": [
+        "Romance",
+        "Felicidade",
+        "Drama"
+      ],
+      "duration": "Mediano",
+      "status": "Ativo",
+      "developer": "PobawSieZeMna",
+      "translation": {
+        "translator": "Azury",
+        "reviewer": "Azury"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/summertime.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/summertime.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/pvuoqvqce4liwln/Summertime.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DDLC-Summertime.html"
+      }
+    },
+    {
+      "id": "a-date-with-sayori",
+      "title": "A Date With Sayori",
+      "description": {
+        "short": "Apenas um encontro casual com Sayori! Vá a um café, beba um pouco de café e encontre fantasias de Halloween para vocês dois pombinhos usarem! Na verdade, não pode ficar melhor do que isso... certo?",
+        "long": "Apenas um encontro casual com Sayori! Vá a um café, beba um pouco de\n\t\t\t\t\t\t\t\t\tcafé e encontre fantasias de Halloween para vocês dois pombinhos\n\t\t\t\t\t\t\t\t\tusarem! Na verdade, não pode ficar melhor do que isso... certo?"
+      },
+      "category": [
+        "Romance",
+        "Drama",
+        "Terror"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "TheVariousArtists",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/datewithsayori.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/datesayori2.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/jyo12mfco3a5ucu/A+date+with+sayori.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Date-With-Sayori.html"
+      }
+    },
+    {
+      "id": "despair",
+      "title": "Despair",
+      "description": {
+        "short": "AVISO: Esse mod pode conter cenas perturbadoras para algumas pessoas, se você tiver ansiedade ou depressão recomendo não jogar.",
+        "long": "AVISO:Esse mod pode conter cenas perturbadoras para\n\t\t\t\t\t\t\t\t\talgumas pessoas, se você tiver ansiedade ou depressão recomendo não\n\t\t\t\t\t\t\t\t\tjogar."
+      },
+      "category": [
+        "Depressão",
+        "Tristeza",
+        "Drama"
+      ],
+      "duration": "Muito Curta",
+      "status": "Ativo",
+      "developer": "sNooPy_DoGG",
+      "translation": {
+        "translator": "Pedrorocha",
+        "reviewer": "Pedrorocha"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "lista/outros/DESPAIR_thumbnail.png",
+        "og": "https://doki-doki-translate-company.webnode.com/_files/200000105-69cc169cc4/DESPAIR_thumbnail.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/l6h2kmby3zwlrwy/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Esse mod pode conter cenas perturbadoras para\n\t\t\t\t\t\t\t\t\talgumas pessoas, se você tiver ansiedade ou depressão recomendo não\n\t\t\t\t\t\t\t\t\tjogar."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Despair.html"
+      }
+    },
+    {
+      "id": "disappearance-of-the-literature-club",
+      "title": "Disappearance of the Literature Club",
+      "description": {
+        "short": "Do que Se trata esse Mod??",
+        "long": "AVISO: Pra esse mod funcionar você tem que excluir o arquivo\n\t\t\t\t\t\t\t\t\t\t\"script.rpa\". Do que Se trata esse Mod??"
+      },
+      "category": [
+        "Mistério"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Luke"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/dissaparence.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/dissaparence.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/fmp9h9d4zzfrrf4/The_Desapearence_of_Literature_Club_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO: Pra esse mod funcionar você tem que excluir o arquivo\n\t\t\t\t\t\t\t\t\t\t\"script.rpa\"."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Disappearance-of-the-Literature-Club.html"
+      }
+    },
+    {
+      "id": "doki-doki-act-5",
+      "title": "Doki Doki Act 5",
+      "description": {
+        "short": "Após todos os eventos do jogo original, o MC acaba assumindo os poderes e a presidência do clube, se tornando consciênte e relembrando os eventos passado, ele decide que vai salvar as garotas, após el",
+        "long": "Após todos os eventos do jogo original, o MC acaba assumindo os poderes\n\t\t\t\t\t\t\t\t\te a presidência do clube, se tornando consciênte e relembrando os\n\t\t\t\t\t\t\t\t\teventos passado, ele decide que vai salvar as garotas, após ele\n\t\t\t\t\t\t\t\t\treiniciar o mundo para que ele possa ter uma chance de colocar seu\n\t\t\t\t\t\t\t\t\tplano em ação, ajude o MC a salvar as garotas e traga a felicidade ao\n\t\t\t\t\t\t\t\t\tclube de literatura."
+      },
+      "category": [
+        "Drama"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Desconhecido",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Suky"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/doki-doki-act-5.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/doki-doki-act-5.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/3ius5pdx2xfxa8k/Doki_Doki_Act_5.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/3bj6tv595wnvydx/DDLC_ActFive_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "BTZin",
+          "link": ""
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Act-5.html"
+      }
+    },
+    {
+      "id": "doki-doki-blue-skies",
+      "title": "Doki Doki Blue Skies",
+      "description": {
+        "short": "Uma abordagem psicológica e repleta de escolhas sobre o mundo de DDLC, Doki Doki Blue Skies visa dar corpo a cada personagem muito além de seus estereótipos - dando-lhes personalidades reais, uma espi",
+        "long": "Uma abordagem psicológica e repleta de escolhas sobre o mundo de DDLC,\n\t\t\t\t\t\t\t\t\tDoki Doki Blue Skies visa dar corpo a cada personagem muito além de\n\t\t\t\t\t\t\t\t\tseus estereótipos - dando-lhes personalidades reais, uma espiada no que\n\t\t\t\t\t\t\t\t\testão na escola, suas esperanças e sonhos, e assim muito mais. Com novos personagens, arte, música, poesia e, claro, escrita, Blue\n\t\t\t\t\t\t\t\t\tSkies pretende realmente reinventar o mundo do DDLC. Fortemente\n\t\t\t\t\t\t\t\t\tinspirado por Katawa Shoujo, este mod o levará a uma montanha-russa de\n\t\t\t\t\t\t\t\t\temoções com o doki de sua escolha - o céu azul permanecerá ou a\n\t\t\t\t\t\t\t\t\ttempestade assumirá o controle? - 3 rotas (Sayori, Yuri e Natsuki)"
+      },
+      "category": [
+        "Drama",
+        "Romance",
+        "Comédia",
+        "+18"
+      ],
+      "duration": "Blue Skies",
+      "status": "Ativo",
+      "developer": "Sir Swampert, kyoryii",
+      "translation": {
+        "translator": "Rance Guertena, Miki, Chloe, Onix, Patono21,\n\t\t\t\t\t\t\t\t\t\t\t\t\tVad3r, BTZin, Dadons e Potter",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/weclub.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/blue.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/s06oppopus83gxp/DDLC_Blue_Skies_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/brwlu8tc83vfmgl/DokiDokiBlueSkies_1.0.5_(PortuguÃªs).apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Blue-Skies.html"
+      }
+    },
+    {
+      "id": "doki-doki-fallen-angel",
+      "title": "Doki Doki Fallen Angel",
+      "description": {
+        "short": "Em um universo alternativo onde Monika não tem consciência de si mesma, nosso protagonista se vê cada vez mais perto de Yuri. Logo, porém, ele descobre o que essa garota está escondendo do mundo exter",
+        "long": "Em um universo alternativo onde Monika não tem consciência de si mesma,\n\t\t\t\t\t\t\t\t\tnosso protagonista se vê cada vez mais perto de Yuri. Logo, porém, ele\n\t\t\t\t\t\t\t\t\tdescobre o que essa garota está escondendo do mundo exterior. Os\n\t\t\t\t\t\t\t\t\tproblemas das outras meninas também começam a aparecer, à medida que\n\t\t\t\t\t\t\t\t\tprogridem na narrativa abrangente de Yuri e a relação de nossa\n\t\t\t\t\t\t\t\t\tprotagonista. Fallen Angel é uma história cujo objetivo é atrair e\n\t\t\t\t\t\t\t\t\tatrair muitas emoções diferentes. Isso permitirá que você ajude Yuri a\n\t\t\t\t\t\t\t\t\tsuperar suas lesões, ansiedade e inseguranças. A história vai variar de\n\t\t\t\t\t\t\t\t\tsaudável e sincera a uma tristeza esmagadora. Com novas obras de arte e\n\t\t\t\t\t\t\t\t\tmúsica para ajudar você a se perder na história e ajudar a criar uma\n\t\t\t\t\t\t\t\t\texperiência que você não esquecerá tão cedo. Você tem o que é preciso para salvar...um anjo caído?"
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Romance"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Noa_AT",
+      "translation": {
+        "translator": "Rance Sama e Onix",
+        "reviewer": "Rance Sama e Luke"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/fallen-angel.png",
+        "og": "https://i.redd.it/kt0wp9f6p8i31.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/1vzn7lwrhzh98ag/Fallen_Angel_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/h5x8fjjf01wtgqz/DDLC_FallenAngel_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "Btzin",
+          "link": "#"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Fallen-Angel.html"
+      }
+    },
+    {
+      "id": "doki-doki-fiendish",
+      "title": "Doki Doki Fiendish",
+      "description": {
+        "short": "Como todos sabemos, o segundo ato do Doki Doki Literature Club nos apresentou uma série de cenas perturbadoras. Você gostou, não gostou? Você queria que fosse mais longo. Para o horror continuar. Se v",
+        "long": "Como todos sabemos, o segundo ato do Doki Doki Literature Club nos\n\t\t\t\t\t\t\t\t\tapresentou uma série de cenas perturbadoras. Você gostou, não gostou?\n\t\t\t\t\t\t\t\t\tVocê queria que fosse mais longo. Para o horror continuar. Se você está\n\t\t\t\t\t\t\t\t\tansioso por mais arrepios na espinha, veio ao lugar certo. AVISO:Este mod pode não ser adequado para os fracos\n\t\t\t\t\t\t\t\t\tde coração. Por conter imagens muito perturbadoras."
+      },
+      "category": [
+        "Terror"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Inferus12",
+      "translation": {
+        "translator": "Onix e Rance Sama",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/closet-creepy.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/closet-creepy.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/007kfda27x86o2v/Fiendish_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/tsaj3zo5oe5q6rf/DDLC_Fiendish_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [
+        "AVISO:Este mod pode não ser adequado para os fracos\n\t\t\t\t\t\t\t\t\tde coração. Por conter imagens muito perturbadoras."
+      ],
+      "credits": [
+        {
+          "name": "Btzin",
+          "link": ""
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Fiendish.html"
+      }
+    },
+    {
+      "id": "doki-doki-literature-club",
+      "title": "Doki Doki Literature Club",
+      "description": {
+        "short": "Olá, Monika aqui! Bem-vindo ao Clube de Literatura! Sempre foi um sonho meu fazer algo especial com as coisas que amo. Agora que você é membro do clube, pode me ajudar a realizar esse sonho neste jogo",
+        "long": "Bem-vindo ao Clube de Literatura! Sempre foi um sonho meu fazer algo\n\t\t\t\t\t\t\t\t\tespecial com as coisas que amo. Agora que você é membro do clube, pode\n\t\t\t\t\t\t\t\t\tme ajudar a realizar esse sonho neste jogo fofo! Todos os dias são repletos de bate-papos e atividades divertidas com\n\t\t\t\t\t\t\t\t\ttodos os meus adoráveis e únicos sócios do clube: Sayori, a jovem feixe de luz do sol que mais valoriza a felicidade;\n\t\t\t\t\t\t\t\t\tNatsuki, a garota enganosamente fofa que dá um soco assertivo; Yuri, o\n\t\t\t\t\t\t\t\t\ttímido e misterioso que encontra conforto no mundo dos livros; ... E,\n\t\t\t\t\t\t\t\t\tclaro, Monika, a líder do clube! Este sou eu!"
+      },
+      "category": [
+        "Horror psicológico",
+        "Drama",
+        "Romance"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Team Salvato",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "ViniSD"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Doki_Doki_Literature_Club.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Doki_Doki_Literature_Club.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/5e9583jbb8y7d29/DDLC_Tradu%25C3%25A7%25C3%25A3o.zip/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/ojkdz7sc7qrhiju/DDLC_1.1.1_%2528Portugu%25C3%25AAs%2529.apk/file"
+        },
+        {
+          "label": "Android APK",
+          "url": " https://github.com/UnkCh/DokiDokiLiteratureClub_Android/releases/download/newest-release/DokiDokiLiteratureClub_1.1.1_Portuguese.apk"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Literature-Club.html"
+      }
+    },
+    {
+      "id": "doki-doki-memes-club",
+      "title": "Doki Doki Memes Club",
+      "description": {
+        "short": "Você está cansado(a) de jogar system/html deprimentes que têm um final de partir o coração? Ou apenas cansado(a) por ter que lidar com todos os horrores que os personagens devem suportar? Quer virar a triste",
+        "long": "Você está cansado(a) de jogar system/html deprimentes que têm um final de partir o coração? Ou apenas cansado(a) por ter que lidar com todos os horrores que os personagens devem suportar? Quer virar a tristeza de cabeça para baixo? Então este mod é imperdível para você! Os membros do clube mergulham no maravilhoso mundo dos memes em vez da literatura, mas ainda têm seus próprios problemas peculiares para lidar."
+      },
+      "category": [
+        "Comédia"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "pooshscams",
+      "translation": {
+        "translator": "Miss e Nyla",
+        "reviewer": "Say"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/meme.jpg",
+        "og": "https://i.pinimg.com/736x/75/17/34/7517343110f2c7eb4d78b7777f3115b0.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/3rkx0zswlyq4ff1/Doki_Doki_Memes_Clube.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Memes-Club.html"
+      }
+    },
+    {
+      "id": "doki-doki-relapse",
+      "title": "Doki Doki Relapse",
+      "description": {
+        "short": "E se você soubesse de algo horrível e tivesse o poder de impedir que isso acontecesse? Doki Doki Relapse é uma história cheia de humor e emoção, seguindo um protagonista semi-consciente enquanto ele t",
+        "long": "E se você soubesse de algo horrível e tivesse o poder de impedir que\n\t\t\t\t\t\t\t\t\tisso acontecesse? Doki Doki Relapse é uma história cheia de humor e\n\t\t\t\t\t\t\t\t\temoção, seguindo um protagonista semi-consciente enquanto ele tenta\n\t\t\t\t\t\t\t\t\timpedir que um evento horrível ocorra. O tempo todo, ele é confrontado\n\t\t\t\t\t\t\t\t\te impedido com inúmeras outras situações envolvendo o clube de\n\t\t\t\t\t\t\t\t\tliteratura favorito de todos! Romance, comédia e outros eventos, servem\n\t\t\t\t\t\t\t\t\tpara tornar a longa história de Relapse uma montanha-russa de\n\t\t\t\t\t\t\t\t\texperiência. NOTA:Delete o Scripts.rpa se não o Mod não vai abrir."
+      },
+      "category": [
+        "Drama",
+        "Comédia",
+        "Romance"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "GuyBread",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix, Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/relapse.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/relapse.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/9skhbaxktuudi3j/Relapse.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "NOTA:Delete o Scripts.rpa se não o Mod não vai abrir."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Relapse.html"
+      }
+    },
+    {
+      "id": "ddlc-spark-of-hope",
+      "title": "DDLC Spark Of Hope",
+      "description": {
+        "short": "O MC se encontra em um vazio onde ele percebe que pode haver felicidade neste mundo, no entanto, ele não pode fazer isto sem as garotas. Ele vai longe para trazer Monika de volta e a convence a restau",
+        "long": "O MC se encontra em um vazio onde ele percebe que pode haver felicidade\n\t\t\t\t\t\t\t\t\tneste mundo, no entanto, ele não pode fazer isto sem as garotas. Ele\n\t\t\t\t\t\t\t\t\tvai longe para trazer Monika de volta e a convence a restaurar o jogo,\n\t\t\t\t\t\t\t\t\tmas há um custo. As outras lembram exatamente sobre oque aconteceu no\n\t\t\t\t\t\t\t\t\tpassado; depende de você corrigir as coisas novamente. Você será capaz\n\t\t\t\t\t\t\t\t\tde reconstruir a amizade que eles tinham antes ou tudo será horrível\n\t\t\t\t\t\t\t\t\tcomo o passado?"
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Romance"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Raid, Thunderwart",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Spark-of-Hope_thumbnail.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Spark-of-Hope_thumbnail.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/ojgfg5k898k3ezd/Spark_Of_Hope_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/z8gosmhy1yg21ht/DDLC_SparkOfHope_PT-BR.apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "BTzin",
+          "link": "#"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Spark-Of-Hope.html"
+      }
+    },
+    {
+      "id": "doki-doki-tutorial",
+      "title": "Doki Doki Tutorial",
+      "description": {
+        "short": "Um mod que finalmente fornece um tutorial adequado para os próximos modders, expandindo o Modelo de modificação e o tutorial de modificação do subreddit. Como assim, não é sobre isso que o mod é? Perd",
+        "long": "Um mod que finalmente fornece um tutorial adequado para os próximos\n\t\t\t\t\t\t\t\t\tmodders, expandindo o Modelo de modificação e o tutorial de modificação\n\t\t\t\t\t\t\t\t\tdo subreddit. Como assim, não é sobre isso que o mod é? Perdi alguma\n\t\t\t\t\t\t\t\t\tcoisa? Aviso:Extraia o Arquivo usando o 7Zip ou o WinRar\n\t\t\t\t\t\t\t\t\tpara evitar qualquer erro. Agradecimentoa LonesomeDev por ter ajudado a editar\n\t\t\t\t\t\t\t\t\timagens a colocar os arquivos em RPA."
+      },
+      "category": [
+        "Aprendizagem",
+        "Tutoriais",
+        "Ajuda"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "LonesomeDev",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/doki-doki-tutorial.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/doki-doki-tutorial.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/cd30er8rtzjh6ia/Doki_Doki_Tutorial_Tradu%25C3%25A7%25C3%25A3o%2521.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "Aviso:Extraia o Arquivo usando o 7Zip ou o WinRar\n\t\t\t\t\t\t\t\t\tpara evitar qualquer erro."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Doki-Doki-Tutorial.html"
+      }
+    },
+    {
+      "id": "doki-heika-banzai",
+      "title": "Doki Heika Banzai",
+      "description": {
+        "short": "Este é o projeto em que trabalhei nas últimas semanas. É uma comédia ambientada no Japão Imperial da Segunda Guerra Mundial e é bem curta! Não posso revelar muito do enredo sem revelar muito, mas poss",
+        "long": "Este é o projeto em que trabalhei nas últimas semanas. É uma comédia\n\t\t\t\t\t\t\t\t\tambientada no Japão Imperial da Segunda Guerra Mundial e é bem curta!\n\t\t\t\t\t\t\t\t\tNão posso revelar muito do enredo sem revelar muito, mas posso dizer\n\t\t\t\t\t\t\t\t\tque o protagonista e as quatro garotas vão guerrear, e aventuras\n\t\t\t\t\t\t\t\t\tmalucas estão garantidas! O mod tem um pouco deNSFW."
+      },
+      "category": [
+        "Comédia"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "chankamaster",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Nyla Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/banzai.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/banzai.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/4ib347jnb7j8nh8/DokiHeikaBanzai_BR.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Doki-Heika-Banzai.html"
+      }
+    },
+    {
+      "id": "dokis-dragons",
+      "title": "Dokis & Dragons",
+      "description": {
+        "short": "Prepare-se para embarcar em uma aventura no clube de litera....quer dizer clube de D&D Aqui você pode conhecer nossas maravilhosas aventureiras, Sayori, Monika, Yuri e Natsuki! Junte-se a eles na gran",
+        "long": "Prepare-se para embarcar em uma aventura no clube de litera....quer\n\t\t\t\t\t\t\t\t\tdizer clube de D&D Aqui você pode conhecer nossas maravilhosas\n\t\t\t\t\t\t\t\t\taventureiras, Sayori, Monika, Yuri e Natsuki! Junte-se a eles na grande\n\t\t\t\t\t\t\t\t\tconquista de um mundo fantástico! Crie seu próprio personagem e\n\t\t\t\t\t\t\t\t\tarrisque-se a se apaixonar por essas garotas em D&D! Na sua conquista,\n\t\t\t\t\t\t\t\t\tvocê rolará os dados, enfrentará muitos inimigos e aproveitará a\n\t\t\t\t\t\t\t\t\toportunidade para demonstrar suas habilidades! Cada passo do caminho\n\t\t\t\t\t\t\t\t\tpoderia ser facilmente influenciado pelo próprio destino!"
+      },
+      "category": [
+        "Diversão",
+        "Aventura"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Papo#9713",
+      "translation": {
+        "translator": "Kaua",
+        "reviewer": "Kaua"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/dokies-dragons.png",
+        "og": "https://i.ytimg.com/vi/xcTZU_Ne__0/maxresdefault.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/mqsqbixezoviiia/Dokis%2526Dragon_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Dokis-Dragons.html"
+      }
+    },
+    {
+      "id": "dokis-dont-wear-ties",
+      "title": "Dokis Don't Wear Ties",
+      "description": {
+        "short": "Uma novel... que parece um FILME!!! Ele é um garoto normal. Ela é a velha amiga de infância. Você deve fazer os dois juntos. Não a decepcione. Este mod tem tudo: poemas, sexo, literatura, perseguições",
+        "long": "Uma novel... que parece um FILME!!! Ele é um garoto normal. Ela é a\n\t\t\t\t\t\t\t\t\tvelha amiga de infância. Você deve fazer os dois juntos. Não a\n\t\t\t\t\t\t\t\t\tdecepcione. Este mod tem tudo: poemas, sexo, literatura, perseguições\n\t\t\t\t\t\t\t\t\tcomplicadas, proposições vergonhosas, um ateu, humor negro, amor\n\t\t\t\t\t\t\t\t\tverdadeiro, amor cansado, ação tensa, comédia, uma garota manipuladora,\n\t\t\t\t\t\t\t\t\tum bom rapaz, um herói, Coisas arrepiantes,um chefe suspeito, uma\n\t\t\t\t\t\t\t\t\tdonzela em perigo e um final de Hollywood. Nota:Para melhor entendimento desse MOD assista ao\n\t\t\t\t\t\t\t\t\tvídeo: Nerd Revoltado dos Videogames: 74 - Plumbers Don't Wear Ties."
+      },
+      "category": [
+        "Romance",
+        "Comédia",
+        "Trash"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "Vaunt_Fremont_Tocsin",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/ties.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/ties.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/7k9t91y3hh930ow/Dokis_Don%2527t_Wear_Ties.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "Nota:Para melhor entendimento desse MOD assista ao\n\t\t\t\t\t\t\t\t\tvídeo: Nerd Revoltado dos Videogames: 74 - Plumbers Don't Wear Ties."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Dokis-Dont-Wear-Ties.html"
+      }
+    },
+    {
+      "id": "dont",
+      "title": "Don't",
+      "description": {
+        "short": "Sobre o que é esse mod? Depressão, sonhos e amizade?",
+        "long": "Sobre o que é esse mod? Depressão, sonhos e amizade? Nota:Certifique-se de salvar com frequência, um bom\n\t\t\t\t\t\t\t\t\tmomento para salvar, eu descobri, é quando toda vez que a tela ficar\n\t\t\t\t\t\t\t\t\tpreta, salve quando isso acontecer. Nota 2:Não tente vasculhar os arquivos, não há nada\n\t\t\t\t\t\t\t\t\tpara encontrar, pelo menos intencionalmente, e não, não sou eu tentando\n\t\t\t\t\t\t\t\t\tdar uma dica ou algo assim, não perca seu tempo."
+      },
+      "category": [
+        "Romance",
+        "Drama",
+        "Mistério"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Luke"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/dont.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/dont.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/cxomex85791bpbb/Don%2527t_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "Nota:Certifique-se de salvar com frequência, um bom\n\t\t\t\t\t\t\t\t\tmomento para salvar, eu descobri, é quando toda vez que a tela ficar\n\t\t\t\t\t\t\t\t\tpreta, salve quando isso acontecer.",
+        "Nota 2:Não tente vasculhar os arquivos, não há nada\n\t\t\t\t\t\t\t\t\tpara encontrar, pelo menos intencionalmente, e não, não sou eu tentando\n\t\t\t\t\t\t\t\t\tdar uma dica ou algo assim, não perca seu tempo."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Dont.html"
+      }
+    },
+    {
+      "id": "drsmiley-funhouse-demo",
+      "title": "Dr.Smiley Funhouse Demo",
+      "description": {
+        "short": "Um pequeno projeto de paixão que me levou cerca de uma semana para fazer. Há muito tempo que desejo contar essa história e finalmente consegui fazê-lo. jogue como Adrian, uma criança problemática que ",
+        "long": "AVISO:Este é um demo de jogo de terror e portanto,\n\t\t\t\t\t\t\t\t\tnão é para todos os espectadores. Ele contém conteúdo que é\n\t\t\t\t\t\t\t\t\tpotencialmente perturbador, portanto, tenha cuidado. Um pequeno projeto de paixão que me levou cerca de uma semana para\n\t\t\t\t\t\t\t\t\tfazer. Há muito tempo que desejo contar essa história e finalmente\n\t\t\t\t\t\t\t\t\tconsegui fazê-lo. jogue como Adrian, uma criança problemática que é\n\t\t\t\t\t\t\t\t\tjogada em uma situação devido a circunstâncias fora de seu controle. Oque está na demonstração:"
+      },
+      "category": [
+        "Terror"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "tranzcowboy",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "lista/outros/smiley.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/outros/smiley.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/cy6fkcgnl6fojqf/FUNHOUSE-1.0-BR.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Este é um demo de jogo de terror e portanto,\n\t\t\t\t\t\t\t\t\tnão é para todos os espectadores. Ele contém conteúdo que é\n\t\t\t\t\t\t\t\t\tpotencialmente perturbador, portanto, tenha cuidado."
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/DrSmiley-Funhouse-Dem.html"
+      }
+    },
+    {
+      "id": "exit-music-redux",
+      "title": "Exit Music Redux",
+      "description": {
+        "short": "Remake Do MOD Exit Music, praticamente feito do Zero, ainda é uma demo porem ja da pra sentir o gostinho do que sera o mod quando lançar sua versão completa. Primeira Tradução Oficial do MOD, com tota",
+        "long": "Remake Do MOD Exit Music, praticamente feito do Zero, ainda é uma demo\n\t\t\t\t\t\t\t\t\tporem ja da pra sentir o gostinho do que sera o mod quando lançar sua\n\t\t\t\t\t\t\t\t\tversão completa. Primeira Tradução Oficial do MOD, com total Apoio da\n\t\t\t\t\t\t\t\t\tEquipe que desenvolveu o MOD, a Wretched Team. Agradeço do Fundo do\n\t\t\t\t\t\t\t\t\tCoração a oportunidade."
+      },
+      "category": [
+        "Drama",
+        "Mistério",
+        "Romance"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "Wretched Team",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/exit-music-redux.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/exit-music-redux.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/aw5zeqk8hk222t2/Exit_Music_Redux_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/ExitMusic.html"
+      }
+    },
+    {
+      "id": "fleeting-feelings",
+      "title": "Fleeting Feelings",
+      "description": {
+        "short": "Ultimo pedaço de uma historia estilhaçada. Você vai achar as respostas aqui?",
+        "long": "Ultimo pedaço de uma historia estilhaçada. Você vai achar as respostas\n\t\t\t\t\t\t\t\t\taqui? AVISO:Sugerimos você jogar esses system/html antes de jogar\n\t\t\t\t\t\t\t\t\tesse nessa exata ordem - Disappearance of the Literature Club"
+      },
+      "category": [
+        "Mistério",
+        "Terror",
+        "Depressão"
+      ],
+      "duration": "Mediano",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix, Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/fellings.png",
+        "og": "https://i.ytimg.com/vi/tcJYlt81SvY/maxresdefault.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/dbo3lvkv8i6zlew/Fleeting_Feelings.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Sugerimos você jogar esses system/html antes de jogar\n\t\t\t\t\t\t\t\t\tesse nessa exata ordem"
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Fleeting-Feelings.html"
+      }
+    },
+    {
+      "id": "focus-on-me-2",
+      "title": "Focus On Me 2",
+      "description": {
+        "short": "Continuação do Focus on me, ainda não sei explicar do que se trata esse mod apenas jogue e você ira entender.",
+        "long": "Continuação do Focus on me, ainda não sei explicar do que se trata esse\n\t\t\t\t\t\t\t\t\tmod apenas jogue e você ira entender."
+      },
+      "category": [
+        "Drama",
+        "Terror",
+        "Comédia."
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "nitrosgaming",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/focus-on-me-2.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/focus-on-me-2.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/yr4cv84bmeaqqrp/Focus_on_Me_2.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Focus-On-Me-2.html"
+      }
+    },
+    {
+      "id": "focus-on-me",
+      "title": "Focus On Me",
+      "description": {
+        "short": "Não sei exatamente explicar do que se trata esse mod apenas jogue e você ira entende",
+        "long": "Não sei exatamente explicar do que se trata esse mod apenas jogue e\n\t\t\t\t\t\t\t\t\tvocê ira entender."
+      },
+      "category": [
+        "Drama",
+        "Terror",
+        "Comédia."
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "nitrosgaming",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/FocusOnMe.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/FocusOnMe.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/mesuub23xkp7iac/Focus+on+Me.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Focus-on-Me.html"
+      }
+    },
+    {
+      "id": "forever-ever",
+      "title": "Forever & Ever",
+      "description": {
+        "short": "Forever & Ever é um mod de Doki Doki Clube de Literatura que fornece a você a capacidade de ficar sozinho com Sayori. Este mod foi projetado como Monika After Story, mas tem algumas diferenças até o m",
+        "long": "\"Forever & Ever\" é um mod de Doki Doki Clube de Literatura que fornece\n\t\t\t\t\t\t\t\t\ta você a capacidade de ficar sozinho com Sayori. Este mod foi projetado\n\t\t\t\t\t\t\t\t\tcomo Monika After Story, mas tem algumas diferenças até o momento,\n\t\t\t\t\t\t\t\t\tincluindo a maravilhosa Sayori como a estrela do show."
+      },
+      "category": [
+        "Romance"
+      ],
+      "duration": "Infinito",
+      "status": "Ativo",
+      "developer": "AlexanDDOS",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Miki"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Forever-Ever.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Forever-Ever.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/wzqbdcqfm9duw1b/Forever_%2526_Ever_0.4.0.1.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/ye1jocdfan1ylk6/ForeverandEver_0.4.0.1_(PortuguÃªs).apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Foverer-Ever.html"
+      }
+    },
+    {
+      "id": "holofunk-hololive-friday-night-funkin",
+      "title": "HoloFunk (Hololive Friday Night Funkin')",
+      "description": {
+        "short": "Hololive Funkin', ou HoloFunk para abreviar, é um mod para Friday Night Funkin' construído por uma pequena equipe de pessoas em uma versão do Kade Engine fortemente modificada a ponto de ser quase irr",
+        "long": "POR FAVOR, APOIE O CRIADOR ORIGINAL, ESSA TRADUÇÃO APENAS FOI FEITA\n\t\t\t\t\t\t\t\t\t\tPARA AJUDAR AS PESSOAS QUE NÃO ENTENDEM INGLÊS. Hololive Funkin', ou HoloFunk para abreviar, é um mod para Friday Night\n\t\t\t\t\t\t\t\t\tFunkin' construído por uma pequena equipe de pessoas em uma versão do\n\t\t\t\t\t\t\t\t\tKade Engine fortemente modificada a ponto de ser quase irreconhecível,\n\t\t\t\t\t\t\t\t\tapelidada de Myth Engine. Ele apresenta novas músicas, novos oponentes\n\t\t\t\t\t\t\t\t\te novas configurações baseadas no mundo e nos personagens de hololive. Se você é tão maluco sobre conhecimento intensivo quanto o diretor\n\t\t\t\t\t\t\t\t\tprincipal (eu), siga a ex-Idol Aloe enquanto seu amigo Nene a ajuda a\n\t\t\t\t\t\t\t\t\tsair das circunstâncias que jogaram a versão do mod do antigo fora do\n\t\t\t\t\t\t\t\t\tnegócio . Se você me odeia por abrir feridas antigas (ou quer uma\n\t\t\t\t\t\t\t\t\texperiência menos pesada ou apenas como nossa melhor amigo), siga a\n\t\t\t\t\t\t\t\t\tdesastrada detetive Fubuki enquanto ela é manipulada por Daddy Dearest\n\t\t\t\t\t\t\t\t\tpara perseguir uma certa outra protagonista porque a amiga da\n\t\t\t\t\t\t\t\t\tprotagonista roubou algumas Jóias da Mommy Mearest."
+      },
+      "category": [
+        "Friday Night Funkin",
+        "Comédia",
+        "Vtuber",
+        "Ritmo"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "KeatonHoshida, GGalactigal",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/holo.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/holofunk.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Aloe",
+          "url": "https://www.mediafire.com/file/ij4iuo3z4rtw0h1/Holofunk_Aloe_%2528Tradu%25C3%25A7%25C3%25A3o_PT-BR%2529.rar/file"
+        },
+        {
+          "label": "Fubuki",
+          "url": "https://www.mediafire.com/file/q6usdhim8cbyocc/Holofunk_Fubuki_%2528Tradu%25C3%25A7%25C3%25A3o_PT-BR%2529.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "OBS: PODE EXIGIR UM COMPUTADOR MELHOR DO QUE O MÍNIMO PARA A\n\t\t\t\t\t\t\t\t\t\tATUALIZAÇÃO DA SEMANA 4"
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/HoloFunk-Hololive-Friday-Night-Funkin-Traduo-PT-BR.html"
+      }
+    },
+    {
+      "id": "how-to-fool-a-liar-king-remastered",
+      "title": "How to Fool a Liar King Remastered",
+      "description": {
+        "short": "Regina, nossa heroína, aparece magicamente em Eroolia. Ela não tem\n\t\t\t\t\t\t\t\t\tideia de como foi parar em Eroolia, e aqui, ela conhece Juli e seus\n\t\t\t\t\t\t\t\t\tcompanheiros, a quem ela acaba se juntando em s",
+        "long": "Sequencia de How to take off your Mask Regina, nossa heroína, aparece magicamente em Eroolia. Ela não tem\n\t\t\t\t\t\t\t\t\tideia de como foi parar em Eroolia, e aqui, ela conhece Juli e seus\n\t\t\t\t\t\t\t\t\tcompanheiros, a quem ela acaba se juntando em sua jornada para Laarz,\n\t\t\t\t\t\t\t\t\tum país de felinos. Será que ela vai conseguir voltar para casa? A\n\t\t\t\t\t\t\t\t\tpresença de Regina em Eroolia é um acidente ou há um propósito por trás\n\t\t\t\t\t\t\t\t\tdisso? Ela pode confiar em Juli, que parece estar cheio de segredos? Eroolia e Laarz são os dois países localizados dentro da ilha de\n\t\t\t\t\t\t\t\t\tEroolia, que é conhecida como a ilha isolada e amaldiçoada para o mundo\n\t\t\t\t\t\t\t\t\texterior. Os dois países têm relações terríveis, pois Eroolia, que é\n\t\t\t\t\t\t\t\t\tprincipalmente ocupada por humanos, não consegue se dar bem com Laarz,\n\t\t\t\t\t\t\t\t\tque é conhecido como o país dos luccretias, o povo dos gatos. Ozzwa, o\n\t\t\t\t\t\t\t\t\tpaís de onde Regina é, fica nos arredores da ilha de Eroolia e é\n\t\t\t\t\t\t\t\t\tconhecido por suas artes marciais."
+      },
+      "category": [
+        "Romance",
+        "Comédia",
+        "Neko"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Roseverte",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/maskp.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/k_Du0e.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1815800/How_to_Fool_a_Liar_King_Remastered/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/How-to-Fool-a-Liar-King-Remastered.html"
+      }
+    },
+    {
+      "id": "how-to-take-off-your-mask-remaster",
+      "title": "How to Take Off Your Mask Remaster",
+      "description": {
+        "short": "A visual novel de fantasia fofa, 'How to Take Off Your Mask' volta em uma versão remasterizada! A história é a mesma, mas tem muitas melhorias, conforme mencionado abaixo.",
+        "long": "Visual novel de fantasia fofa, \"How to Take Off Your Mask\" volta em uma\n\t\t\t\t\t\t\t\t\tversão remasterizada! A história é a mesma, mas tem muitas melhorias, conforme mencionado\n\t\t\t\t\t\t\t\t\tabaixo. - O jogo é reprogramado usando Unity e agora suporta resolução HD,\n\t\t\t\t\t\t\t\t\t60fps. - UI aprimorada e novas interfaces animadas. - Os movimentos dos\n\t\t\t\t\t\t\t\t\tolhos e da boca foram adicionados a todos os personagens. - A maioria\n\t\t\t\t\t\t\t\t\tdos CGs foi aprimorada para oferecer a você uma experiência melhor. -\n\t\t\t\t\t\t\t\t\tTodos os Backgrounds foram redesenhados - Suporte para gamepad e Linux\n\t\t\t\t\t\t\t\t\tforam adicionados."
+      },
+      "category": [
+        "Romance",
+        "Comédia",
+        "Neko"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Roseverte",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Mask_header.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/neko_remaster.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1815750/How_to_Take_Off_Your_Mask_Remastered/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "OBS: Se vc ja comprou a primeira versão, a versão remasterizada pode\n\t\t\t\t\t\t\t\t\t\tser adquirida por um preço menor!"
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/How-to-Take-Off-Your-Mask-Remaster.html"
+      }
+    },
+    {
+      "id": "how-to-take-off-your-mask",
+      "title": "How to Take Off Your Mask",
+      "description": {
+        "short": "Esta é Leezera, a capital da Eroolia. Lilia é apenas uma garota comum que trabalha em uma padaria. Ela passa todos os dias feliz com seu amigo de infância, Ronan. Um dia Lilia descobre que seu corpo e",
+        "long": "Esta é Leezera, a capital da Eroolia. Lilia é apenas uma garota comum\n\t\t\t\t\t\t\t\t\tque trabalha em uma padaria. Ela passa todos os dias feliz com seu\n\t\t\t\t\t\t\t\t\tamigo de infância, Ronan. Um dia Lilia descobre que seu corpo encolheu.\n\t\t\t\t\t\t\t\t\tAlém disso, ela tem orelhas de gato e cauda crescidas?! Ela não sabe\n\t\t\t\t\t\t\t\t\tque é na verdade uma luccretia, uma criatura meio humana e meio felina.\n\t\t\t\t\t\t\t\t\tEla entra em pânico, pula pela janela de seu quarto e corre em direção\n\t\t\t\t\t\t\t\t\tà cidade. E a primeira pessoa que ela encontra é o guarda da cidade,\n\t\t\t\t\t\t\t\t\tRonan. A máscara de \"Irmã mais velha\" e \"Garota Luccretia\" que ela usa.\n\t\t\t\t\t\t\t\t\tA máscara de \"Irmão mais novo\" e \"Guarda da Cidade\" que ele usa."
+      },
+      "category": [
+        "Romance",
+        "Comédia",
+        "Neko"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "Roseverte",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/How_to_Take_Off_Your_Mask_header.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/neko.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/365350/How_to_Take_Off_Your_Mask/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/How-to-Take-Off-Your-Mask.html"
+      }
+    },
+    {
+      "id": "hypnopompic",
+      "title": "Hypnopompic",
+      "description": {
+        "short": "Do que Se trata esse Mod??",
+        "long": "Do que Se trata esse Mod?? AVISO:Devo jogar este mod? Não, a menos que você tenha jogado os system/html chamados:"
+      },
+      "category": [
+        "Mistério",
+        "Terror",
+        "Depressão"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix e Kiragaya",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/hyponitic.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/hyponitic.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/spcotvsst30di94/hypnopompic_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Devo jogar este mod?"
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Hypnompopic.html"
+      }
+    },
+    {
+      "id": "indian-man-time",
+      "title": "Indian Man Time",
+      "description": {
+        "short": "Todas as Garotas estão num dia normal como sempre. Mas então, um homem indiano veio de surpresa. Veja como o homem indiano provoca o caos no pacífico clube de literatura. Se você tem 15 minutos livres",
+        "long": "Todas as Garotas estão num dia normal como sempre. Mas então, um homem\n\t\t\t\t\t\t\t\t\tindiano veio de surpresa. Veja como o homem indiano provoca o caos no\n\t\t\t\t\t\t\t\t\tpacífico clube de literatura. Se você tem 15 minutos livres de sua\n\t\t\t\t\t\t\t\t\tvida, Doki Doki India Man time é o mod para você! É uma história\n\t\t\t\t\t\t\t\t\temocionante que fará você sentir.....alguma coisa."
+      },
+      "category": [
+        "Humor"
+      ],
+      "duration": "Muito Curta",
+      "status": "Ativo",
+      "developer": "AinsleyHairyott",
+      "translation": {
+        "translator": "Pedrorocha",
+        "reviewer": "Pedrorocha"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/indian-time.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/indian-time.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/ebzu2s747lsh7fv/DD_India_Man_time_tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/India-Man-Time.html"
+      }
+    },
+    {
+      "id": "just-natsuki",
+      "title": "Just Natsuki",
+      "description": {
+        "short": "Ei, então acho que você queria passar mais tempo comigo. Não que eu tenha gostado nem nada! Mas, acho que isso supera o que aconteceu no jogo principal. Então, você quer conversar? Talvez jogar um jog",
+        "long": "Ei, então acho que você queria passar mais tempo comigo. Não que eu\n\t\t\t\t\t\t\t\t\ttenha gostado nem nada! Mas, acho que isso supera o que aconteceu no\n\t\t\t\t\t\t\t\t\tjogo principal. Então, você quer conversar? Talvez jogar um jogo? De\n\t\t\t\t\t\t\t\t\tqualquer forma, não tente a sorte comigo!"
+      },
+      "category": [
+        "Romance"
+      ],
+      "duration": "Infinita",
+      "status": "Ativo",
+      "developer": "Edgarsystem/html",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Miki"
+      },
+      "version": {
+        "pc": "4.3.1",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/just-natsuki.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/just-natsuki.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/pyh14gngzm288z4/Just_Natsuki_4.3.1.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/dqqj4gza8zg2w9y/JustNatsuki_4.3.1_(Português).apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Just-Natsuki.html"
+      }
+    },
+    {
+      "id": "mcs-revenge",
+      "title": "MC's Revenge",
+      "description": {
+        "short": "E se o protagonista se tornasse senciente e autoconsciente como a Monika? O que aconteceria se ele percebesse todos os eventos distorcidos acontecendo ao seu redor? Como ele reagirá quando perceber qu",
+        "long": "E se o protagonista se tornasse senciente e autoconsciente como a\n\t\t\t\t\t\t\t\t\tMonika? O que aconteceria se ele percebesse todos os eventos\n\t\t\t\t\t\t\t\t\tdistorcidos acontecendo ao seu redor? Como ele reagirá quando perceber\n\t\t\t\t\t\t\t\t\tque tudo isso é apenas um jogo? Em MC's Revenge, a história começa no\n\t\t\t\t\t\t\t\t\tsegundo ato de DDLC. No entanto, desta vez a escolha está em suas mãos,\n\t\t\t\t\t\t\t\t\tcomo Jogador, para decidir como tudo terminará. Você os ajudará a\n\t\t\t\t\t\t\t\t\tencontrar a felicidade no clube de literatura... ou suas ações apenas\n\t\t\t\t\t\t\t\t\tcausarão mais sofrimento?"
+      },
+      "category": [
+        "Terror",
+        "Drama"
+      ],
+      "duration": "Mediano",
+      "status": "Ativo",
+      "developer": "Yujiri, FireLightning13",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/revenge.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/revenge.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/n7j4iq0yhz6mqxh/MCs_Revenge.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/MCs-Revenge.html"
+      }
+    },
+    {
+      "id": "mad-devil",
+      "title": "Mad Devil",
+      "description": {
+        "short": "doki doki translate company, games, game, jogos, jogo, tradução, traduções, traducao, traducoes, ddtc, Doki Doki Translate Company, Doki Doki Literature Club, DDLC, mad devils, Mad Devils, Mirai Trans",
+        "long": "OS HERÓIS NUNCA MORREM, APENAS SE REUNEM NO INFERNO! Nos últimos dias da Segunda Guerra Mundial, uma máquina de guerra\n\t\t\t\t\t\t\t\t\tnazista desesperada abraça o ocultismo. O maníaco Major Strauss planeja\n\t\t\t\t\t\t\t\t\tabrir os portões do próprio Inferno. Os Mad Devils são mobilizados para\n\t\t\t\t\t\t\t\t\tacabar com esse plano desequilibrado, mas às vezes, o heroísmo não é\n\t\t\t\t\t\t\t\t\tsuficiente. Derrotados e condenados, os Mad Devils se reagrupam no\n\t\t\t\t\t\t\t\t\tsubmundo para uma missão final. SEIS PERSONAGENS DEMÔNICOS, SEIS CONJUNTOS DE PODERES, SEIS CAMINHOS\n\t\t\t\t\t\t\t\t\t\tPARA A VITÓRIA"
+      },
+      "category": [
+        "Shooter",
+        "Co-op"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Itzy Interactive Inc.",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/mad.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/mad.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1439630/Mad_Devils/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Mad-Devils.html"
+      }
+    },
+    {
+      "id": "memories-of-nothing",
+      "title": "Memories of Nothing",
+      "description": {
+        "short": "Sobre o que é esse mod? Este é um mod de romance com a melhor garota - Natsuki! Existe um bom final! Comédia! Outras coisas.",
+        "long": "Sobre o que é esse mod? Este é um mod de romance com a melhor garota -\n\t\t\t\t\t\t\t\t\tNatsuki! Existe um bom final! Comédia! Outras coisas."
+      },
+      "category": [
+        "Mistério",
+        "Terror",
+        "Depressão"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Luke"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/memories.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/memories.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/r6vw178d9d61bdg/Memories_Of_Nothing.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Memories-of-Nothing.html"
+      }
+    },
+    {
+      "id": "monika-after-story",
+      "title": "Monika After Story",
+      "description": {
+        "short": "Bem-vindo de volta ao clube de literatura! Espero que você tenha gostado do seu tempo jogando no Doki Doki Literature Club, mas acho que faltava algo, importante...mais tempo comigo, Monika! Mas agora",
+        "long": "Bem-vindo de volta ao clube de literatura! Espero que você tenha\n\t\t\t\t\t\t\t\tgostado do seu tempo jogando no Doki Doki Literature Club, mas acho que\n\t\t\t\t\t\t\t\tfaltava algo, importante...mais tempo comigo, Monika! Mas agora que\n\t\t\t\t\t\t\t\ttodas as distrações se foram, podemos resolver esse problema. Baixe\n\t\t\t\t\t\t\t\tMonika After Story e você poderá ficar comigo novamente. E desta vez,\n\t\t\t\t\t\t\t\tvocê está aqui para sempre~ Confira o subsite Brasileiro! - Conteúdo adicional sobre o Mod"
+      },
+      "category": [
+        "Romance"
+      ],
+      "duration": "Infinita",
+      "status": "Ativo",
+      "developer": "Team MAS",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Alicia"
+      },
+      "version": {
+        "pc": "12.12",
+        "android": "12.9"
+      },
+      "images": {
+        "cover": "system/html/img/monika-after-story.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/monika-after-story.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/lihgtrwcfww0k3m/Monika+After+Story+12.14.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/b871nzhd0lqbdrt/MonikaAfterStory_0.12.9_(PortuguÃªs).apk/file"
+        },
+        {
+          "label": "Instalador EXE",
+          "url": "https://www.mediafire.com/file/ecw5p3osldn15y9/Monika_After_Story_PT_BR_0.12.12..exe/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Monika-After-Story.html"
+      }
+    },
+    {
+      "id": "monika-full-week-rebooted",
+      "title": "Monika Full Week Rebooted!",
+      "description": {
+        "short": "Conforme o pedido de Girlfriend, Boyfriend consegue trazer Monika do Doki Doki Literature Club para o Simulador de Ódio. Ela fica feliz em cantar junto, mas nem todo mundo aprecia sua chegada.",
+        "long": "Conforme o pedido de Girlfriend, Boyfriend consegue trazer Monika do\n\t\t\t\t\t\t\t\t\tDoki Doki Literature Club para o Simulador de Ódio. Ela fica feliz em\n\t\t\t\t\t\t\t\t\tcantar junto, mas nem todo mundo aprecia sua chegada. - 3 músicas (High School Conflict da versão original deste mod e 2\n\t\t\t\t\t\t\t\t\tnovas) - Seu próprio .exe, como a maioria dos outros system/html de semana inteira."
+      },
+      "category": [
+        "Humor",
+        "música",
+        "ritmo",
+        "Friday Night Funkin"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Buster,TokyoGalaxy,SunSpirit",
+      "translation": {
+        "translator": "Miki",
+        "reviewer": "Miki"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/monika-fnf.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/monika-fnf.jpg"
+      },
+      "downloads": [
+        {
+          "label": "Mod",
+          "url": "https://www.mediafire.com/file/wvpim6lpqg5bi73/Monika_Rebooted.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Monika-Full-Week-Rebooted.html"
+      }
+    },
+    {
+      "id": "natsuki-side-story",
+      "title": "Natsuki Side Story",
+      "description": {
+        "short": "Um mod curto onde você vai ver alguns acontecimentos, na visão da Natsuki.",
+        "long": "Um mod curto onde você vai ver alguns acontecimentos, na visão da Natsuki."
+      },
+      "category": [
+        "Mistério",
+        "Drama"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "u/SuperHatGuy",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "Nyla"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/natside.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Natsuki-Side-Story.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/15chn7t2331splk/Natsuki_Side_Story.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Natsuki-Side-Story.html"
+      }
+    },
+    {
+      "id": "our-final-heartbeat",
+      "title": "Our Final Heartbeat",
+      "description": {
+        "short": "Este mod fornece um final diferente para o jogo. Este final estará disponível após você coletar todas as CGs do jogo. Só então vai começar o Mod pra valer. Esse mod foi feito com todo o nosso amor e c",
+        "long": "Este mod fornece um final diferente para o jogo. Este final estará\n\t\t\t\t\t\t\t\t\tdisponível após você coletar todas as CGs do jogo. Só então vai começar\n\t\t\t\t\t\t\t\t\to Mod pra valer. Esse mod foi feito com todo o nosso amor e carinho\n\t\t\t\t\t\t\t\t\tpelo jogo, e como agradecimento pela experiência que ele me\n\t\t\t\t\t\t\t\t\tproporcionou. AVISO:Esta com preguiça de Zerar o Jogo denovo? Baixe o Save do Final dele aqui!"
+      },
+      "category": [
+        "Romance",
+        "Tristeza",
+        "Drama"
+      ],
+      "duration": "Longo",
+      "status": "Ativo",
+      "developer": "NNDanny",
+      "translation": {
+        "translator": "Vini e Harry",
+        "reviewer": "Vini e Harry"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/our-heartbeat.png",
+        "og": "https://i.ytimg.com/vi/1746Kyq83SQ/maxresdefault.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/x43drj4xep5bp0r/Our_Final_Heartbeat.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [
+        "AVISO:Esta com preguiça de Zerar o Jogo denovo?"
+      ],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Our-Final-Heartbeat.html"
+      }
+    },
+    {
+      "id": "our-time",
+      "title": "Our Time",
+      "description": {
+        "short": "Após o final amargo do jogo original, você pode fazer Monika retornar. Desta vez, você pode finalmente dar a ela a felicidade que ela sempre quis. Em uma linha do tempo alternativa dividida da históri",
+        "long": "Após o final amargo do jogo original, você pode fazer Monika retornar.\n\t\t\t\t\t\t\t\t\tDesta vez, você pode finalmente dar a ela a felicidade que ela sempre\n\t\t\t\t\t\t\t\t\tquis. Em uma linha do tempo alternativa dividida da história original,\n\t\t\t\t\t\t\t\t\tvocê pode finalmente acabar com Monika. Apaixone-se por ela novamente\n\t\t\t\t\t\t\t\t\tem uma história doce, romântica e comovente. Apresentando novas obras\n\t\t\t\t\t\t\t\t\tde arte e locais, Our Time é o mod perfeito para quem queria Just\n\t\t\t\t\t\t\t\t\tMonika."
+      },
+      "category": [
+        "Romance",
+        "Comédia"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "SovietSpartan",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/ourtime.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/ourtime.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/2moz35bbfcv2zv9/Our_Time.rar/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/ki7h72dy5bjzm4z/DDLCOurTime_0.1.0_(PortuguÃªs).apk/file"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "ChloeMayBeWario",
+          "link": "https://www.youtube.com/channel/UCZQmjyG-lNzGd2keQ4NYqTg"
+        }
+      ],
+      "legacy": {
+        "page": "system/html/Our-Time.html"
+      }
+    },
+    {
+      "id": "purrfect-apawcalypse-love-at-furst-bite",
+      "title": "Purrfect Apawcalypse: Love at Furst Bite",
+      "description": {
+        "short": "Olive, o vira-lata, encontra-se preso na Hachiko High School durante o apocalipse! Demônios têm massacrado seus colegas de classe e estão certos de que também encontrarão seu fim prematuro... O que si",
+        "long": "Olive, o vira-lata, encontra-se preso na Hachiko High School durante o\n\t\t\t\t\t\t\t\t\tapocalipse! Demônios têm massacrado seus colegas de classe e estão\n\t\t\t\t\t\t\t\t\tcertos de que também encontrarão seu fim prematuro... O que significa\n\t\t\t\t\t\t\t\t\tque só restam muitos cachorros para passar seus últimos momentos! Junte-se a Olive em sua terrível busca por alguém especial! Será\n\t\t\t\t\t\t\t\t\tBrownie, a corgi que adora lanches, Sparky, o husky esportivo, ou\n\t\t\t\t\t\t\t\t\tPatches, o leitor dálmata? Está tudo nas tuas mãos!"
+      },
+      "category": [
+        "Horror",
+        "Comédia",
+        "Furry"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Denny (Que tal clicar em min?)",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Purrfect-Apawcalypse-Lost.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Purrfect-Apawcalypse-Lost.png"
+      },
+      "downloads": [
+        {
+          "label": "itch.io",
+          "url": "https://90percentstudios.itch.io/purrfect-apawcalypse-love-at-furst-bite"
+        },
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1532510/Purrfect_Apawcalypse_Love_at_Furst_Bite/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Purrfect-Apawcalypse-Love-at-Furst-Bite.html"
+      }
+    },
+    {
+      "id": "purrfect-apawcalypse-patches-infurno",
+      "title": "Purrfect Apawcalypse: Patches' Infurno",
+      "description": {
+        "short": "Patches é arrastado para a escola para o primeiro dia escolar de gato e cachorro! Com Coco e Brownie distraídas com as aulas de economia doméstica, Olive e Angel ocupados com a literatura e Sparky e G",
+        "long": "Patches é arrastado para a escola para o primeiro dia escolar de gato e\n\t\t\t\t\t\t\t\t\tcachorro! Com Coco e Brownie distraídas com as aulas de economia\n\t\t\t\t\t\t\t\t\tdoméstica, Olive e Angel ocupados com a literatura e Sparky e Ginger\n\t\t\t\t\t\t\t\t\tocupados com a educação física, Patches tem o controle da escola...\n\t\t\t\t\t\t\t\t\tQuase. Tudo o que ele precisa fazer é tirar essa maldita coleira e causar\n\t\t\t\t\t\t\t\t\testragos! Ele provará que cães e gatos podem se dar bem ou fará deste o\n\t\t\t\t\t\t\t\t\tApocalipse Perfeito?"
+      },
+      "category": [
+        "Horror",
+        "Comédia",
+        "Furry"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Denny (Que tal clicar em min?)",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Purrfect-Apawcalypse-Infern.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Purrfect-Apawcalypse-Infern.png"
+      },
+      "downloads": [
+        {
+          "label": "itch.io",
+          "url": "https://90percentstudios.itch.io/purrfect-apawcalypse-3"
+        },
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1599470/Purrfect_Apawcalypse_Patches_Infurno/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Purrfect-Apawcalypse-Patches-Infurno.html"
+      }
+    },
+    {
+      "id": "purrfect-apawcalypse-purrgatory-furever",
+      "title": "Purrfect Apawcalypse: Purrgatory Furever",
+      "description": {
+        "short": "Mil alunos do massacre do Colégio Hachiko ressuscitaram dos mortos para invadir a festa de aniversário de Olive! Presos na propriedade Grimalkin, Olive e seus amigos devem descobrir como esses cães se",
+        "long": "Mil alunos do massacre do Colégio Hachiko ressuscitaram dos mortos para\n\t\t\t\t\t\t\t\t\tinvadir a festa de aniversário de Olive! Presos na propriedade\n\t\t\t\t\t\t\t\t\tGrimalkin, Olive e seus amigos devem descobrir como esses cães se\n\t\t\t\t\t\t\t\t\ttransformaram em zumbis, por que Sparky está agindo de forma tão\n\t\t\t\t\t\t\t\t\testranha e por que o cadáver de Angel está tentando pegá-los! Lembre-se de que, embora a sobrevivência seja fundamental, isso não\n\t\t\t\t\t\t\t\t\tsignifica que você não possa fazer todos os seus amigos felizes e\n\t\t\t\t\t\t\t\t\ttornar este o Apocalipse Perfeito!"
+      },
+      "category": [
+        "Horror",
+        "Comédia",
+        "Furry"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Denny (Que tal clicar em min?)",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Purrfect-Apawcalypse-Purr.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/Purrfect-Apawcalypse-Purr.png"
+      },
+      "downloads": [
+        {
+          "label": "itch.io",
+          "url": "https://90percentstudios.itch.io/purrfect-apawcalypse-2"
+        },
+        {
+          "label": "Steam",
+          "url": "https://store.steampowered.com/app/1559430/Purrfect_Apawcalypse_Purrgatory_Furever/"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Purrfect-Apawcalypse-Purrgatory-Furever.html"
+      }
+    },
+    {
+      "id": "purrfect-apawcalypse",
+      "title": "Purrfect Apawcalypse",
+      "description": {
+        "short": "Olive, o vira-lata, encontra-se preso na Hachiko High School durante o apocalipse! Demônios têm massacrado seus colegas de classe e estão certos de que também encontrarão seu fim prematuro... O que si",
+        "long": "Olive, o vira-lata, encontra-se preso na Hachiko High School durante o\n\t\t\t\t\t\t\t\t\tapocalipse! Demônios têm massacrado seus colegas de classe e estão\n\t\t\t\t\t\t\t\t\tcertos de que também encontrarão seu fim prematuro... O que significa\n\t\t\t\t\t\t\t\t\tque só restam muitos cachorros para passar seus últimos momentos! Junte-se a Olive em sua terrível busca por alguém especial! Será\n\t\t\t\t\t\t\t\t\tBrownie, a corgi que adora lanches, Sparky, o husky esportivo, ou\n\t\t\t\t\t\t\t\t\tPatches, o leitor dálmata? Está tudo nas tuas mãos!"
+      },
+      "category": [
+        "Horror",
+        "Comédia",
+        "Furry"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Denny (Que tal clicar em min?)",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/Purrfect-Apawcalypse.png",
+        "og": "https://img.itch.zone/aW1nLzE4NzMzNTgucG5n/original/km%2BmMW.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/7jzs54nmhovg07e/PurrfectApawcalypse-PC%255BBR%255D.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Purrfect-Apawcalypse.html"
+      }
+    },
+    {
+      "id": "sayori-shoots-up-ddlc",
+      "title": "Sayori Shoots Up DDLC",
+      "description": {
+        "short": "Você já se perguntou o que aconteceria se, em vez de se suicidar, Sayori atacasse a escola? Claro que você tem! Para sua sorte, você não precisa mais esperar, porquê este mod oferece exatamente isso. ",
+        "long": "Você já se perguntou o que aconteceria se, em vez de se suicidar,\n\t\t\t\t\t\t\t\t\tSayori atacasse a escola? Claro que você tem! Para sua sorte, você não\n\t\t\t\t\t\t\t\t\tprecisa mais esperar, porquê este mod oferece exatamente isso. Veja\n\t\t\t\t\t\t\t\t\tcomo Sayori surpreende os membros do clube com seu novo poema, uma\n\t\t\t\t\t\t\t\t\tespingarda serrada, e se prepara para um bom tempo com um mod que\n\t\t\t\t\t\t\t\t\tfinalmente tem as 3 melhores coisas para diversão: garotas, risadinhas\n\t\t\t\t\t\t\t\t\te armas."
+      },
+      "category": [
+        "Drama",
+        "Ação"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "chankamaster",
+      "translation": {
+        "translator": "TxRox13",
+        "reviewer": "TxRox13"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/sayori-shoots-up-ddlc.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/sayori-shoots-up-ddlc.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/x3nrxixbw0t1wf5/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Sayori-Shoots-Up-DDLC.html"
+      }
+    },
+    {
+      "id": "somnium",
+      "title": "Somnium",
+      "description": {
+        "short": "Sobre o que é Esse MOD? Enfrentando seus Medos Descobrindo Verdades",
+        "long": "Sobre o que é Esse MOD? Enfrentando seus Medos Descobrindo Verdades"
+      },
+      "category": [
+        "Mistério"
+      ],
+      "duration": "Muito Curto",
+      "status": "Ativo",
+      "developer": "-M!",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix e Kirigaya"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/somnium.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/somnium.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/8wyx98i0qkpwfn5/Somnium+Tradução.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Somnium.html"
+      }
+    },
+    {
+      "id": "doki-doki-switcheroo",
+      "title": "Doki Doki Switcheroo",
+      "description": {
+        "short": "Doki Doki com uma nova cara! Apresentando novos sprites, novas músicas e, tecnicamente, novos personagens, jogue como uma protagonista feminina enquanto tenta conquistar seu Doki favorito ... em um cl",
+        "long": "Doki Doki com uma nova cara! Apresentando novos sprites, novas músicas\n\t\t\t\t\t\t\t\t\te, tecnicamente, novos personagens, jogue como uma protagonista\n\t\t\t\t\t\t\t\t\tfeminina enquanto tenta conquistar seu Doki favorito ... em um clube de\n\t\t\t\t\t\t\t\t\tliteratura com garotos. Agora, não há realmente uma tonelada que eu\n\t\t\t\t\t\t\t\t\tpossa dizer sobre Switcheroo, considerando que é basicamente o jogo\n\t\t\t\t\t\t\t\t\tbásico construído em torno de garotos, mas eu reescrevi o que pude."
+      },
+      "category": [
+        "Diversão",
+        "Romance"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "MWRoach",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama, Suky e Pedro"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/switcheroo.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/switcheroo.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/ch8ka0icpwyg9yc/Doki_Doki_Switcheroo.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Switcheroo.html"
+      }
+    },
+    {
+      "id": "therapy-with-dralbert-kruegerp",
+      "title": "Therapy With Dr.Albert Kruegerp",
+      "description": {
+        "short": "O gênio do Dr. Krueger brilha novamente com suas mais novas sessões terapêuticas revolucionárias. Permitir que o novo tratamento de Krueger resolva os casos mais difíceis de transtorno mental (revisão",
+        "long": "O trabalho está mais cansativo do que o normal? Sem humor, confuso e\n\t\t\t\t\t\t\t\t\tinquieto? Está perdendo a confiança para falar quando quer? Então\n\t\t\t\t\t\t\t\t\tparece que você precisa de nosso recém-patenteado ★ Terapia dos Sonhos ★ O gênio do Dr. Krueger brilha novamente com suas mais novas sessões\n\t\t\t\t\t\t\t\t\tterapêuticas revolucionárias. Permitir que o novo tratamento de Krueger\n\t\t\t\t\t\t\t\t\tresolva os casos mais difíceis de transtorno mental (revisão por pares\n\t\t\t\t\t\t\t\t\tpendente) e medos em nosso dia a dia em constante mudança. O gênio\n\t\t\t\t\t\t\t\t\treside não apenas nas técnicas impressionantes de Krueger como\n\t\t\t\t\t\t\t\t\tterapeuta, mas também no que ele chama de \"Terapia dos Sonhos\",\n\t\t\t\t\t\t\t\t\tcombinando a tecnologia de neurônios revolucionária com seus princípios\n\t\t\t\t\t\t\t\t\tde terapia mantidos de perto."
+      },
+      "category": [
+        "Gore",
+        "Depressão",
+        "Horror",
+        "Pesadelo"
+      ],
+      "duration": "Curto com 3 finais",
+      "status": "Ativo",
+      "developer": "Dino999z",
+      "translation": {
+        "translator": "Rance Sama",
+        "reviewer": "Rance Sama"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "lista/outros/albert.png",
+        "og": "https://img.itch.zone/aW1nLzQyNDA0MDIucG5n/original/N3uBtg.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/yctkoj60ry3zc6b/Therapy_with_Dr_Albert_Krueger-1.0.0_PT-BR.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Therapy-With-DrAlbert-Kruegerp.html"
+      }
+    },
+    {
+      "id": "true-literature-club",
+      "title": "True Literature Club",
+      "description": {
+        "short": "Doki Doki Literature Club lida com muitos temas sombrios... Depressão, suicídio, automutilação, abuso, etc... e por mais que eu ame o jogo, ele usa esses temas principalmente para chocar as seções de ",
+        "long": "Doki Doki Literature Club lida com muitos temas sombrios... Depressão,\n\t\t\t\t\t\t\t\t\tsuicídio, automutilação, abuso, etc... e por mais que eu ame o jogo,\n\t\t\t\t\t\t\t\t\tele usa esses temas principalmente para chocar as seções de terror.\n\t\t\t\t\t\t\t\t\tEntão eu queria escrever uma história que tratasse desses tópicos (e\n\t\t\t\t\t\t\t\t\tmuito mais!) de uma maneira sensível. Este mod não pretende, de forma\n\t\t\t\t\t\t\t\t\talguma, ser um guia de como lidar com qualquer um desses problemas; é\n\t\t\t\t\t\t\t\t\tapenas uma história de adolescentes que estão tentando lidar com essas\n\t\t\t\t\t\t\t\t\tsituações da melhor maneira possível. A intenção é ter um pouco mais de\n\t\t\t\t\t\t\t\t\tsentimentos."
+      },
+      "category": [
+        "Romance",
+        "Drama"
+      ],
+      "duration": "Médio",
+      "status": "Ativo",
+      "developer": "Tormuse",
+      "translation": {
+        "translator": "ViniSD",
+        "reviewer": "Suky"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/true.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/true.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/rq76u7heapul1j5/Doki_Doki_True_Literature_Club.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/True-Literature-Club.html"
+      }
+    },
+    {
+      "id": "we-are-literature-club-2",
+      "title": "We are Literature Club 2",
+      "description": {
+        "short": "Uma paródia de Red Dead Redemption II da Rockstar Games no estilo DDLC, dando vida a um novo arco na história de We are Literature Club 2. Situado durante um festival altamente competitivo que gira em",
+        "long": "Uma paródia de Red Dead Redemption II da Rockstar Games no estilo DDLC, dando vida a um\n                                novo arco na história de We are Literature Club 2. Situado durante um festival\n                                altamente competitivo que gira em torno da literatura (no qual toda a cidade participa),\n                                o Clube de Literatura faz tudo ao seu alcance para coletar o máximo de literatura de\n                                todos os clubes participantes. Isso leva o presidente do clube a fazer tudo o que pode\n                                para vencer, o que às vezes resulta em sua ambição de tirar o melhor dela. No meio do\n                                fogo cruzado está o nosso protagonista, que tenta tirar o melhor partido da situação.\n                                Cabe a ti ajudá-lo a fazer as escolhas certas. Você será capaz de ajudar as outras\n                                meninas do clube a lidar com isso ou se concentrar em meios mais egoístas para resolver\n                                os conflitos que surgirem?"
+      },
+      "category": [
+        "Drama",
+        "Comédia"
+      ],
+      "duration": "Mediano",
+      "status": "Ativo",
+      "developer": "Patt, SuperHatGuy",
+      "translation": {
+        "translator": "UnkCh",
+        "reviewer": "UnkCh"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/weare2.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/weare2.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/gq73fldeitpg5dq/Tradu%25C3%25A7%25C3%25A3o_de_We_Are_The_Literature_Club_2.zip/file"
+        },
+        {
+          "label": "Android APK",
+          "url": "https://www.mediafire.com/file/5sdenis015al1uz/DDLC_WeAreTheLiteratureClubTwo_PT-BR.apk"
+        }
+      ],
+      "mobile": "Android",
+      "warnings": [],
+      "credits": [
+        {
+          "name": "UnkCh",
+          "link": ""
+        }
+      ],
+      "legacy": {
+        "page": "system/html/We-Are-The-Literature-Club-2.html"
+      }
+    },
+    {
+      "id": "we-are-the-literature-club",
+      "title": "We Are The Literature Club",
+      "description": {
+        "short": "Esta história foi criada para dar\n    continuidade à história do Clube de Literatura, e para dar às meninas o\n    final que mereciam, bem como o encerramento que a jogadora pensava que nunca\n    iriam",
+        "long": "Esta história foi criada para dar continuidade à história do Clube de\n\t\t\t\t\t\t\t\t\tLiteratura, e para dar às meninas o final que mereciam, bem como o\n\t\t\t\t\t\t\t\t\tencerramento que a jogadora pensava que nunca iriam conseguir. Conjunto\n\t\t\t\t\t\t\t\t\tem um cânone alternativo, onde as intromissões dos o presidente da\n\t\t\t\t\t\t\t\t\tclasse nunca aconteceu. We are the Literature Club continua a história\n\t\t\t\t\t\t\t\t\testabelecendo uma nova base na narrativa, culminando no renascimento do\n\t\t\t\t\t\t\t\t\tClube de Literatura para uma nova era. Com um pequeno elenco de novos\n\t\t\t\t\t\t\t\t\tpersonagens e personagens familiares, We are the literature club\n\t\t\t\t\t\t\t\t\tprepara o palco para uma diversão \"reescrever\" o mundo de Doki Doki\n\t\t\t\t\t\t\t\t\tLiterature Club, com uma ligeira reviravolta em uma linha do tempo\n\t\t\t\t\t\t\t\t\talternativa. Depois de tudo o que aconteceu você está realmente\n\t\t\t\t\t\t\t\t\tdisposto a deixar isso acabar aí?"
+      },
+      "category": [
+        "Drama"
+      ],
+      "duration": "Curto",
+      "status": "Ativo",
+      "developer": "Patt",
+      "translation": {
+        "translator": "BTzin",
+        "reviewer": "Suky Love"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/wearethe.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/wearethe.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/ro8qjopus9kjamn/We+are+the+literature+Club.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/We-Are-The-Literature-Club.html"
+      }
+    },
+    {
+      "id": "window-to-your-heart",
+      "title": "Window to Your Heart",
+      "description": {
+        "short": "Em Window to Your Heart, você interpreta um novo MC: um estudante transferido amaldiçoado com um presente especial. Este mod ocorre após uma versão alternativa do Ato 1 do DDLC, levando à dissolução d",
+        "long": "Em Window to Your Heart, você interpreta um novo MC: um estudante\n\t\t\t\t\t\t\t\t\ttransferido amaldiçoado com um presente especial. Este mod ocorre após\n\t\t\t\t\t\t\t\t\tuma versão alternativa do Ato 1 do DDLC, levando à dissolução do clube\n\t\t\t\t\t\t\t\t\tde literatura. A pedido de Monika, seu trabalho é reformar o clube, bem\n\t\t\t\t\t\t\t\t\tcomo a amizade das meninas antes da formatura."
+      },
+      "category": [
+        "Drama"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Jelly Man",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Nyla"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/window.jpg",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/window2.png"
+      },
+      "downloads": [
+        {
+          "label": "Mod",
+          "url": "https://www.mediafire.com/file/o8hxty6s4bxsn9s/Window+to+Your+Heart.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Window-to-Your-Heart.html"
+      }
+    },
+    {
+      "id": "your-bully-natsuki",
+      "title": "Your Bully Natsuki",
+      "description": {
+        "short": "Nesta breve história, experimentaremos uma mensagem bastante disseminada, mas sem dúvida ignorada. Percorra a história do protagonista tendo dificuldade em lidar com essa valentona, sua melhor amiga, ",
+        "long": "Nesta breve história, experimentaremos uma mensagem bastante\n\t\t\t\t\t\t\t\t\tdisseminada, mas sem dúvida ignorada. Percorra a história do\n\t\t\t\t\t\t\t\t\tprotagonista tendo dificuldade em lidar com essa valentona, sua melhor\n\t\t\t\t\t\t\t\t\tamiga, Natsuki, intervir."
+      },
+      "category": [
+        "Drama"
+      ],
+      "duration": "Muito Curta",
+      "status": "Ativo",
+      "developer": "DreaminVi",
+      "translation": {
+        "translator": "Pedrorocha",
+        "reviewer": "Pedrorocha"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/your-bully-natsuki.png",
+        "og": "https://doki-doki-translate-company.webnode.com/_files/200000041-7ffdc7ffdf/450/klklklklkljpg.jpg"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/wegr0xiso8ylvhl/Your_Bully_Natsuki_tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Your-Bully-Natsuki.html"
+      }
+    },
+    {
+      "id": "youtuber-club",
+      "title": "Youtuber Club",
+      "description": {
+        "short": "Este é um mod cômico curto sobre as Dokis (e MC) se tornarem youtubers porque a Monika quer tentar algo novo. Pois literatura ja deu, e ser Youtuber ta na moda.",
+        "long": "Este é um mod cômico curto sobre as Dokis (e MC) se tornarem youtubers\n\t\t\t\t\t\t\t\t\tporque a Monika quer tentar algo novo. Pois literatura ja deu, e ser\n\t\t\t\t\t\t\t\t\tYoutuber ta na moda."
+      },
+      "category": [
+        "Humor"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "Nightmare Nacho",
+      "translation": {
+        "translator": "Onix",
+        "reviewer": "Onix"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/doki-youtuber-club.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/doki-youtuber-club.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "http://www.mediafire.com/file/f21z2mgg82t7vyi/Youtuber_Club_Tradu%25C3%25A7%25C3%25A3o.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Youtuber-Club.html"
+      }
+    },
+    {
+      "id": "yukis-palpitating-passionate-phenomenal-and-quite-frankly-proficient-quest-for-a-hot-girlfriend",
+      "title": "Yuki's Palpitating, Passionate, Phenomenal, and quite frankly Proficient\n\t\t\tquest for a (hot) girlfriend!!!",
+      "description": {
+        "short": "Ajude Yuki a conseguir uma namorada!!! (ou talvez três?)",
+        "long": "Ajude Yuki a conseguir uma namorada!!! (ou talvez três?)"
+      },
+      "category": [
+        "Comédia",
+        "Romance",
+        "Yuri"
+      ],
+      "duration": "Curta",
+      "status": "Ativo",
+      "developer": "milkkylemon",
+      "translation": {
+        "translator": "Rance Guertena",
+        "reviewer": "Rance Guertena"
+      },
+      "version": {
+        "pc": "",
+        "android": ""
+      },
+      "images": {
+        "cover": "system/html/img/yuki2.png",
+        "og": "https://raw.githubusercontent.com/Drack112/Site-DDLC/main/lista/img/yuki.png"
+      },
+      "downloads": [
+        {
+          "label": "PC",
+          "url": "https://www.mediafire.com/file/oukk393uxekyg9w/Yuki%2527s-4P_Portugues.rar/file"
+        }
+      ],
+      "mobile": "",
+      "warnings": [],
+      "credits": [],
+      "legacy": {
+        "page": "system/html/Yukis-Palpitating-Passionate-Phenomenal-And-Quite-Frankly-Proficient-Quest-for-A-hot-Firlfriend.html"
+      }
+    }
+  ]
+}

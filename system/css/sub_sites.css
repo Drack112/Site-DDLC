@@ -1,0 +1,431 @@
+/* ===================================
+   RESET E CONFIGURAÇÕES BÁSICAS
+   =================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(135deg, #0E0E10 0%, #1C1C22 100%);
+    color: #F2F2F2;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===================================
+   VARIÁVEIS DE CORES DAS DOKIS
+   =================================== */
+:root {
+    /* Sayori - Rosa Salmão */
+    --sayori-primary: #FF8FA3;
+    --sayori-secondary: #FFAEC0;
+    --sayori-accent: #FFD1DC;
+    --sayori-neutral: #FFF5F7;
+    
+    /* Yuri - Roxo Profundo */
+    --yuri-primary: #7B4A8E;
+    --yuri-secondary: #9B6BB3;
+    --yuri-accent: #C7A4D8;
+    --yuri-dark: #2E1A36;
+    
+    /* Natsuki - Rosa Chiclete */
+    --natsuki-primary: #F49AC2;
+    --natsuki-secondary: #FFB6C1;
+    --natsuki-white: #FFFFFF;
+    --natsuki-contrast: #444444;
+    
+    /* Monika - Verde Esmeralda */
+    --monika-primary: #43B581;
+    --monika-secondary: #6ED3A6;
+    --monika-accent: #E8FFF3;
+    --monika-dark: #1F6F4A;
+    
+    /* DDLC Core - O Jogo */
+    --ddlc-black: #0E0E10;
+    --ddlc-gray: #1C1C22;
+    --ddlc-white: #F2F2F2;
+    --ddlc-red: #C92A2A;
+    
+    /* Cores de Texto */
+    --text-primary: #F2F2F2;
+    --text-secondary: #B8B8B8;
+    --text-muted: #888888;
+    
+    /* Espaçamentos */
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 32px;
+    --spacing-xl: 48px;
+    --spacing-2xl: 64px;
+    
+    /* Bordas */
+    --border-radius-sm: 8px;
+    --border-radius-md: 12px;
+    --border-radius-lg: 20px;
+    --border-radius-full: 50px;
+    
+    /* Transições */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+    
+    /* Sombras */
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 15px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* ===================================
+   SITE HEADER
+   =================================== */
+.site-header {
+    background: linear-gradient(135deg, var(--ddlc-black) 0%, var(--ddlc-gray) 100%);
+    border-bottom: 2px solid var(--yuri-primary);
+    padding: var(--spacing-md) 0;
+    box-shadow: 0 4px 20px rgba(123, 74, 142, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* ===================================
+   MOD PAGE (CONTAINER PRINCIPAL)
+   =================================== */
+.mod-page {
+    flex: 1;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: var(--spacing-xl) var(--spacing-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xl);
+}
+
+/* ===================================
+   MOD HERO (IMAGEM PRINCIPAL)
+   =================================== */
+.mod-hero {
+    width: 100%;
+    border-radius: var(--border-radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+    border: 3px solid var(--yuri-primary);
+    position: relative;
+    background: var(--ddlc-gray);
+    animation: fadeInUp 0.6s ease;
+}
+
+.mod-hero img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    transition: transform var(--transition-slow);
+}
+
+.mod-hero:hover img {
+    transform: scale(1.02);
+}
+
+/* ===================================
+   MOD INFO (SEÇÃO DE INFORMAÇÕES)
+   =================================== */
+.mod-info {
+    background: linear-gradient(135deg, var(--ddlc-gray) 0%, rgba(123, 74, 142, 0.1) 100%);
+    border: 2px solid rgba(123, 74, 142, 0.3);
+    border-radius: var(--border-radius-md);
+    padding: var(--spacing-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-lg);
+    box-shadow: var(--shadow-md);
+    animation: fadeInUp 0.8s ease;
+}
+
+.mod-info h1 {
+    font-size: clamp(32px, 5vw, 48px);
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--monika-primary) 0%, var(--monika-secondary) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: 0 2px 10px rgba(67, 181, 129, 0.3);
+    margin: 0;
+    line-height: 1.2;
+}
+
+/* ===================================
+   MOD DESCRIPTION
+   =================================== */
+.mod-description {
+    font-size: 18px;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin: 0;
+}
+
+/* ===================================
+   MOD META (LISTA DE INFORMAÇÕES)
+   =================================== */
+.mod-meta {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-md);
+    background: rgba(123, 74, 142, 0.1);
+    border-radius: var(--border-radius-sm);
+    border: 1px solid rgba(123, 74, 142, 0.2);
+}
+
+.mod-meta li {
+    padding: var(--spacing-xs) 0;
+    font-size: 16px;
+    color: var(--text-primary);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: baseline;
+    border-bottom: 1px solid rgba(123, 74, 142, 0.15);
+}
+
+.mod-meta li:last-child {
+    border-bottom: none;
+}
+
+.mod-meta li strong {
+    color: var(--yuri-accent);
+    font-weight: 600;
+    min-width: 140px;
+}
+
+/* ===================================
+   BTN DOWNLOAD
+   =================================== */
+.btn-download {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 18px 40px;
+    background: linear-gradient(135deg, var(--monika-primary) 0%, var(--monika-secondary) 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: var(--border-radius-full);
+    font-weight: 600;
+    font-size: 18px;
+    transition: all var(--transition-normal);
+    box-shadow: 0 4px 15px rgba(67, 181, 129, 0.3);
+    border: 2px solid transparent;
+    position: relative;
+    overflow: hidden;
+    align-self: flex-start;
+    margin-top: var(--spacing-sm);
+}
+
+.btn-download::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.btn-download:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(67, 181, 129, 0.5);
+    background: linear-gradient(135deg, var(--monika-secondary) 0%, var(--monika-primary) 100%);
+}
+
+.btn-download:hover::before {
+    left: 100%;
+}
+
+.btn-download:active {
+    transform: translateY(-1px);
+}
+
+/* ===================================
+   SITE FOOTER
+   =================================== */
+.site-footer {
+    background: linear-gradient(135deg, var(--ddlc-black) 0%, var(--yuri-dark) 100%);
+    border-top: 2px solid var(--yuri-primary);
+    padding: var(--spacing-xl) var(--spacing-md);
+    margin-top: var(--spacing-2xl);
+    text-align: center;
+}
+
+.site-footer p {
+    color: var(--text-muted);
+    font-size: 14px;
+    line-height: 1.8;
+    margin: 0;
+}
+
+.site-footer a {
+    color: var(--monika-primary);
+    text-decoration: none;
+    transition: color var(--transition-normal);
+}
+
+.site-footer a:hover {
+    color: var(--monika-secondary);
+    text-decoration: underline;
+}
+
+/* ===================================
+   ANIMAÇÕES
+   =================================== */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ===================================
+   RESPONSIVIDADE
+   =================================== */
+@media (max-width: 992px) {
+    .mod-page {
+        padding: var(--spacing-lg) var(--spacing-md);
+        gap: var(--spacing-lg);
+    }
+    
+    .mod-info {
+        padding: var(--spacing-lg);
+    }
+}
+
+@media (max-width: 768px) {
+    .mod-page {
+        padding: var(--spacing-md) var(--spacing-sm);
+        gap: var(--spacing-md);
+    }
+    
+    .mod-hero {
+        border-width: 2px;
+    }
+    
+    .mod-info {
+        padding: var(--spacing-md);
+        gap: var(--spacing-md);
+    }
+    
+    .mod-info h1 {
+        font-size: clamp(28px, 8vw, 36px);
+    }
+    
+    .mod-description {
+        font-size: 16px;
+    }
+    
+    .mod-meta {
+        padding: var(--spacing-sm);
+    }
+    
+    .mod-meta li {
+        font-size: 14px;
+    }
+    
+    .mod-meta li strong {
+        min-width: 120px;
+        font-size: 14px;
+    }
+    
+    .btn-download {
+        width: 100%;
+        padding: 16px 32px;
+        font-size: 16px;
+    }
+    
+    .site-footer {
+        padding: var(--spacing-lg) var(--spacing-sm);
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 480px) {
+    .mod-page {
+        padding: var(--spacing-sm);
+    }
+    
+    .mod-hero {
+        border-radius: var(--border-radius-sm);
+    }
+    
+    .mod-info {
+        padding: var(--spacing-sm);
+        border-radius: var(--border-radius-sm);
+    }
+    
+    .mod-info h1 {
+        font-size: 24px;
+    }
+    
+    .mod-description {
+        font-size: 15px;
+    }
+    
+    .mod-meta {
+        padding: var(--spacing-xs);
+    }
+    
+    .mod-meta li {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+        padding: var(--spacing-xs) 0;
+    }
+    
+    .mod-meta li strong {
+        min-width: auto;
+        font-size: 14px;
+    }
+    
+    .btn-download {
+        padding: 14px 28px;
+        font-size: 15px;
+    }
+}
+
+/* ===================================
+   MELHORIAS DE ACESSIBILIDADE
+   =================================== */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* ===================================
+   FOCUS VISIBLE (ACESSIBILIDADE)
+   =================================== */
+.btn-download:focus-visible,
+.site-footer a:focus-visible {
+    outline: 3px solid var(--monika-primary);
+    outline-offset: 3px;
+}

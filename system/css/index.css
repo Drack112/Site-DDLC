@@ -1,0 +1,700 @@
+/* ===================================
+   RESET E CONFIGURAÇÕES BÁSICAS
+   =================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 80px; /* Espaço para a barra fixa */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ===================================
+   BARRA SUPERIOR FIXA
+   =================================== */
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    padding: 15px 0;
+}
+
+.top-bar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+/* Logo */
+.logo {
+    flex-shrink: 0;
+}
+
+.logo img {
+    height: 50px;
+    width: auto;
+    display: block;
+}
+
+/* Container de busca */
+.search-container {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    max-width: 600px;
+    position: relative;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px 50px 12px 20px;
+    border: 2px solid #e0e0e0;
+    border-radius: 25px;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.search-input:focus {
+    border-color: #ff69b4;
+    box-shadow: 0 0 0 3px rgba(255, 105, 180, 0.1);
+}
+
+.search-button {
+    position: absolute;
+    right: 5px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.search-button:hover {
+    background-color: #ff1493;
+    transform: scale(1.05);
+}
+
+.search-button i {
+    font-size: 16px;
+}
+
+/* ===================================
+   SEÇÕES PRINCIPAIS
+   =================================== */
+main {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+section h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #ff69b4;
+}
+
+/* ===================================
+   GRID DE MODS/ITENS
+   =================================== */
+.items-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    padding: 20px 0;
+}
+
+/* ===================================
+   CARD DE MOD
+   =================================== */
+.mod-item {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.mod-item:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Imagem do Mod */
+.mod-image-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    position: relative;
+}
+
+.mod-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.mod-item:hover .mod-image {
+    transform: scale(1.1);
+}
+
+/* Conteúdo do Mod */
+.mod-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    flex: 1;
+}
+
+/* Título */
+.mod-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.mod-title a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.mod-title a:hover {
+    color: #ff69b4;
+}
+
+/* Descrição */
+.mod-description {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    margin: 0;
+    flex: 1;
+}
+
+/* ===================================
+   TAGS DE CATEGORIA (CORES DAS DOKIS)
+   =================================== */
+.mod-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.category-tag {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+}
+
+/* Cores específicas por categoria - baseadas nas Dokis */
+.category-tag:nth-child(4n+1) {
+    background: linear-gradient(135deg, #FF8FA3 0%, #FFAEC0 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(255, 143, 163, 0.3);
+}
+
+.category-tag:nth-child(4n+2) {
+    background: linear-gradient(135deg, #7B4A8E 0%, #9B6BB3 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(123, 74, 142, 0.3);
+}
+
+.category-tag:nth-child(4n+3) {
+    background: linear-gradient(135deg, #F49AC2 0%, #FFB6C1 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(244, 154, 194, 0.3);
+}
+
+.category-tag:nth-child(4n+4) {
+    background: linear-gradient(135deg, #43B581 0%, #6ED3A6 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(67, 181, 129, 0.3);
+}
+
+.category-tag:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ===================================
+   INFORMAÇÕES DO MOD
+   =================================== */
+.mod-info {
+    list-style: none;
+    padding: 0;
+    margin: 12px 0 0 0;
+    font-size: 13px;
+    color: #666;
+}
+
+.mod-info li {
+    padding: 6px 0;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+}
+
+.mod-info li:last-child {
+    border-bottom: none;
+}
+
+.mod-info li::before {
+    content: "▸";
+    color: #ff69b4;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+/* ===================================
+   ÁREA DE DOWNLOADS
+   =================================== */
+.mod-downloads {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 2px solid #f0f0f0;
+}
+
+.download-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 105, 180, 0.3);
+}
+
+.download-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 105, 180, 0.4);
+    background: linear-gradient(135deg, #ff1493 0%, #c71585 100%);
+}
+
+.download-link:active {
+    transform: translateY(0);
+}
+
+.download-link::before {
+    content: "⬇";
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+/* ===================================
+   BOTÃO + INFO
+   =================================== */
+.info-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #7B4A8E 0%, #9B6BB3 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(123, 74, 142, 0.3);
+    border: 2px solid transparent;
+    margin-top: 12px;
+    position: relative;
+    overflow: hidden;
+}
+
+.info-button::before {
+    content: "ℹ";
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.info-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(123, 74, 142, 0.4);
+    background: linear-gradient(135deg, #9B6BB3 0%, #7B4A8E 100%);
+}
+
+.info-button:active {
+    transform: translateY(0);
+}
+
+.info-button:focus-visible {
+    outline: 3px solid #C7A4D8;
+    outline-offset: 2px;
+}
+
+/* ===================================
+   MENSAGENS DE ESTADO
+   =================================== */
+.no-items,
+.error-message {
+    text-align: center;
+    padding: 60px 20px;
+    font-size: 18px;
+    color: #999;
+}
+
+.error-message {
+    color: #c92a2a;
+    background-color: #ffe0e0;
+    border-radius: 12px;
+    padding: 40px 20px;
+    border: 2px solid #ff8787;
+}
+
+/* ===================================
+   RESPONSIVIDADE
+   =================================== */
+@media (max-width: 768px) {
+    body {
+        padding-top: 70px;
+    }
+
+    .top-bar {
+        padding: 10px 0;
+    }
+
+    .top-bar .container {
+        flex-direction: row;
+        gap: 15px;
+    }
+
+    .logo img {
+        height: 40px;
+    }
+
+    .search-container {
+        max-width: 100%;
+    }
+
+    .search-input {
+        padding: 10px 45px 10px 15px;
+        font-size: 14px;
+    }
+
+    .search-button {
+        width: 35px;
+        height: 35px;
+    }
+
+    section h2 {
+        font-size: 24px;
+    }
+
+    .items-container {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+    }
+
+    .mod-image-container {
+        height: 180px;
+    }
+
+    .mod-title {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .top-bar .container {
+        padding: 0 10px;
+    }
+
+    .logo img {
+        height: 35px;
+    }
+
+    .container {
+        padding: 0 15px;
+    }
+
+    section h2 {
+        font-size: 20px;
+    }
+
+    .items-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .mod-content {
+        padding: 15px;
+    }
+
+    .download-link {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+}
+
+/* ===================================
+   ANIMAÇÕES E EFEITOS
+   =================================== */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.mod-item {
+    animation: fadeIn 0.5s ease forwards;
+}
+
+/* Delay progressivo para efeito cascata */
+.mod-item:nth-child(1) { animation-delay: 0.1s; }
+.mod-item:nth-child(2) { animation-delay: 0.2s; }
+.mod-item:nth-child(3) { animation-delay: 0.3s; }
+.mod-item:nth-child(4) { animation-delay: 0.4s; }
+.mod-item:nth-child(5) { animation-delay: 0.5s; }
+.mod-item:nth-child(6) { animation-delay: 0.6s; }
+
+/* ===================================
+   RESULTADOS DE PESQUISA
+   =================================== */
+.search-results-container {
+    margin: 30px 0;
+    padding: 20px 0;
+    position: relative;
+}
+
+.close-results-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.close-results-button:hover {
+    background-color: #ff1493;
+    transform: scale(1.1) rotate(90deg);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.close-results-button:active {
+    transform: scale(0.95);
+}
+
+.close-results-button i {
+    font-size: 16px;
+}
+
+.game-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.game-card-content {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+}
+
+.game-thumbnail {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.game-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.game-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    line-height: 1.3;
+}
+
+.game-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.game-tags .tag {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    background: linear-gradient(135deg, #FF8FA3 0%, #FFAEC0 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(255, 143, 163, 0.3);
+}
+
+.game-tags .tag:nth-child(2n) {
+    background: linear-gradient(135deg, #7B4A8E 0%, #9B6BB3 100%);
+    box-shadow: 0 2px 8px rgba(123, 74, 142, 0.3);
+}
+
+.game-tags .tag:nth-child(3n) {
+    background: linear-gradient(135deg, #F49AC2 0%, #FFB6C1 100%);
+    box-shadow: 0 2px 8px rgba(244, 154, 194, 0.3);
+}
+
+.game-tags .tag:nth-child(4n) {
+    background: linear-gradient(135deg, #43B581 0%, #6ED3A6 100%);
+    box-shadow: 0 2px 8px rgba(67, 181, 129, 0.3);
+}
+
+.game-tags .tag:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.no-results {
+    text-align: center;
+    padding: 60px 20px;
+    font-size: 18px;
+    color: #999;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsividade para resultados de pesquisa */
+@media (max-width: 768px) {
+    .game-card-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .game-thumbnail {
+        width: 100%;
+        height: 200px;
+    }
+
+    .game-title {
+        font-size: 20px;
+    }
+
+    .close-results-button {
+        top: 15px;
+        right: 15px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .close-results-button i {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .game-card-content {
+        padding: 15px;
+    }
+
+    .game-thumbnail {
+        height: 180px;
+    }
+
+    .game-title {
+        font-size: 18px;
+    }
+
+    .close-results-button {
+        top: 10px;
+        right: 10px;
+        width: 30px;
+        height: 30px;
+    }
+
+    .close-results-button i {
+        font-size: 12px;
+    }
+}
