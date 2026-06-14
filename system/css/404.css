@@ -1,0 +1,682 @@
+/* ===================================
+   PÁGINA 404 - TEMA MONIKA
+   =================================== */
+
+body {
+    background: var(--ddlc-black);
+    color: var(--ddlc-white);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100vh;
+}
+
+/* ===================================
+   HEADER TERMINAL
+   =================================== */
+
+.terminal-header {
+    background: var(--ddlc-black);
+    padding: 2rem;
+    border-bottom: 2px solid var(--monika-primary);
+    font-family: 'Courier New', 'Monaco', 'Consolas', monospace;
+    position: relative;
+}
+
+.terminal-line {
+    color: var(--monika-primary);
+    font-size: 1.1rem;
+    line-height: 1.8;
+    text-shadow: 0 0 10px rgba(67, 181, 129, 0.5);
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+}
+
+.terminal-line::after {
+    content: '_';
+    animation: blink 1s infinite;
+    margin-left: 0.2rem;
+}
+
+@keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+}
+
+@keyframes fadeIn {
+    to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
+
+/* ===================================
+   TEXTOS-CHAVE ESPALHADOS
+   =================================== */
+
+.key-text {
+    position: absolute;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    opacity: 0;
+    animation: fadeInText 2s forwards;
+    z-index: 1;
+    pointer-events: none;
+    font-style: italic;
+}
+
+.key-text-1 {
+    top: 15%;
+    left: 5%;
+    animation-delay: 3s;
+}
+
+.key-text-2 {
+    top: 25%;
+    right: 5%;
+    animation-delay: 4s;
+}
+
+.key-text-3 {
+    bottom: 30%;
+    left: 10%;
+    animation-delay: 5s;
+}
+
+.key-text-4 {
+    bottom: 20%;
+    right: 8%;
+    animation-delay: 6s;
+}
+
+@keyframes fadeInText {
+    to {
+        opacity: 0.6;
+    }
+}
+
+/* ===================================
+   SEÇÃO MONIKA
+   =================================== */
+
+.monika-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    padding: 3rem 2rem;
+    max-width: 1200px;
+    margin: 2rem auto;
+    position: relative;
+    z-index: 2;
+}
+
+.monika-image-container {
+    flex-shrink: 0;
+}
+
+.monika-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 3px solid var(--monika-primary);
+    box-shadow: 0 0 30px rgba(67, 181, 129, 0.3);
+    animation: monikaGlow 3s ease-in-out infinite;
+}
+
+@keyframes monikaGlow {
+    0%, 100% {
+        box-shadow: 0 0 30px rgba(67, 181, 129, 0.3);
+    }
+    50% {
+        box-shadow: 0 0 50px rgba(67, 181, 129, 0.6);
+    }
+}
+
+.monika-speech {
+    background: var(--ddlc-gray);
+    padding: 2rem;
+    border-radius: 15px;
+    border: 2px solid var(--monika-secondary);
+    position: relative;
+    max-width: 500px;
+    min-height: 200px;
+}
+
+.monika-speech::before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 30px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 20px solid var(--monika-secondary);
+}
+
+.monika-speech::after {
+    content: '';
+    position: absolute;
+    left: -18px;
+    top: 32px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-bottom: 13px solid transparent;
+    border-right: 18px solid var(--ddlc-gray);
+}
+
+.speech-line {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 1rem 0;
+    opacity: 0;
+    animation: speechFadeIn 1s forwards;
+}
+
+#speech1 {
+    animation-delay: 1.5s;
+}
+
+#speech2 {
+    animation-delay: 2.5s;
+}
+
+#speech3 {
+    animation-delay: 3.5s;
+}
+
+@keyframes speechFadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+/* ===================================
+   NÚMERO DO ERRO
+   =================================== */
+
+.error-number-container {
+    text-align: center;
+    margin: 2rem 0;
+    position: relative;
+    z-index: 2;
+}
+
+.error-number {
+    font-size: 8rem;
+    font-weight: bold;
+    color: var(--monika-primary);
+    font-family: 'Courier New', monospace;
+    text-shadow: 0 0 30px rgba(67, 181, 129, 0.8);
+    display: inline-block;
+}
+
+.number-shift {
+    transition: all 0.1s ease;
+}
+
+/* ===================================
+   CONSOLE DE ERROS
+   =================================== */
+
+.error-console {
+    background: var(--ddlc-black);
+    border: 2px solid var(--yuri-primary);
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    font-family: 'Courier New', monospace;
+    position: relative;
+    z-index: 2;
+}
+
+.console-header {
+    border-bottom: 1px solid var(--yuri-primary);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.console-title {
+    color: var(--yuri-primary);
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+}
+
+.console-logs {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 0.5rem;
+}
+
+.console-logs::-webkit-scrollbar {
+    width: 8px;
+}
+
+.console-logs::-webkit-scrollbar-track {
+    background: var(--ddlc-black);
+}
+
+.console-logs::-webkit-scrollbar-thumb {
+    background: var(--yuri-primary);
+    border-radius: 4px;
+}
+
+.log-entry {
+    font-size: 0.85rem;
+    line-height: 1.8;
+    margin: 0.3rem 0;
+    padding-left: 0.5rem;
+    opacity: 0;
+    animation: logFadeIn 0.5s forwards;
+}
+
+.log-warn {
+    color: #FFA500;
+}
+
+.log-error {
+    color: var(--ddlc-red);
+}
+
+.log-info {
+    color: var(--monika-primary);
+}
+
+.log-success {
+    color: var(--monika-secondary);
+}
+
+.log-ironic {
+    color: var(--natsuki-primary);
+    font-style: italic;
+}
+
+@keyframes logFadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+/* ===================================
+   BOTÕES
+   =================================== */
+
+.buttons-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin: 3rem auto;
+    max-width: 500px;
+    position: relative;
+    z-index: 2;
+}
+
+.btn-monika,
+.btn-danger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.2rem 2.5rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.btn-monika {
+    background: linear-gradient(135deg, var(--monika-primary) 0%, var(--monika-secondary) 100%);
+    color: var(--ddlc-black);
+    box-shadow: 0 4px 15px rgba(67, 181, 129, 0.4);
+}
+
+.btn-monika:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(67, 181, 129, 0.6);
+}
+
+.btn-monika::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+    transition: left 0.5s;
+}
+
+.btn-monika:hover::before {
+    left: 100%;
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, var(--ddlc-red) 0%, #E03131 100%);
+    color: var(--ddlc-white);
+    box-shadow: 0 4px 15px rgba(201, 42, 42, 0.4);
+}
+
+.btn-danger:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(201, 42, 42, 0.6);
+}
+
+.btn-icon {
+    font-size: 1.3rem;
+    margin-bottom: 0.3rem;
+}
+
+.btn-text {
+    font-weight: 600;
+}
+
+.btn-subtext {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: 0.3rem;
+    font-style: italic;
+}
+
+.runaway-button {
+    transition: transform 0.2s ease, left 0.2s ease, top 0.2s ease;
+}
+
+/* ===================================
+   BUGS VISUAIS CONTROLADOS
+   =================================== */
+
+.glitch-text {
+    animation: glitch 0.1s;
+}
+
+@keyframes glitch {
+    0% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+    100% { transform: translate(0); }
+}
+
+/* Glitch forte (Konami Code) */
+.strong-glitch {
+    animation: strongGlitch 1s;
+}
+
+@keyframes strongGlitch {
+    0%, 100% { 
+        filter: hue-rotate(0deg);
+        transform: translate(0);
+    }
+    10% { 
+        filter: hue-rotate(90deg);
+        transform: translate(-5px, 5px);
+    }
+    20% { 
+        filter: hue-rotate(180deg);
+        transform: translate(5px, -5px);
+    }
+    30% { 
+        filter: hue-rotate(270deg);
+        transform: translate(-5px, -5px);
+    }
+    40% { 
+        filter: hue-rotate(360deg);
+        transform: translate(5px, 5px);
+    }
+    50% { 
+        filter: hue-rotate(0deg) brightness(1.5);
+        transform: translate(0) scale(1.02);
+    }
+    60% { 
+        filter: hue-rotate(90deg);
+        transform: translate(-3px, 3px);
+    }
+    70% { 
+        filter: hue-rotate(180deg);
+        transform: translate(3px, -3px);
+    }
+    80% { 
+        filter: hue-rotate(270deg);
+        transform: translate(-3px, -3px);
+    }
+    90% { 
+        filter: hue-rotate(360deg);
+        transform: translate(3px, 3px);
+    }
+}
+
+.stutter-scroll {
+    scroll-behavior: auto !important;
+}
+
+.ghost-element {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    color: var(--monika-primary);
+    font-size: 0.9rem;
+    font-style: italic;
+    z-index: 1;
+}
+
+.ghost-element.visible {
+    opacity: 0.7;
+    animation: ghostFade 3s forwards;
+}
+
+@keyframes ghostFade {
+    0% { opacity: 0.7; }
+    50% { opacity: 0.7; }
+    100% { opacity: 0; }
+}
+
+/* ===================================
+   FOOTER IRÔNICO
+   =================================== */
+
+.footer-ironic {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-top: 1px solid var(--ddlc-gray);
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    position: relative;
+    z-index: 2;
+}
+
+.footer-line {
+    margin: 0.5rem 0;
+    opacity: 0.7;
+}
+
+.footer-line-alt {
+    margin: 0.3rem 0;
+    opacity: 0.5;
+    font-size: 0.75rem;
+}
+
+/* ===================================
+   KONAMI CODE EASTER EGG
+   =================================== */
+
+.konami-section {
+    max-width: 600px;
+    margin: 3rem auto;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.8s ease;
+    position: relative;
+    z-index: 10;
+}
+
+.konami-section.konami-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.konami-speech {
+    background: var(--ddlc-gray);
+    padding: 2rem;
+    border-radius: 15px;
+    border: 3px solid var(--monika-primary);
+    position: relative;
+    margin-bottom: 2rem;
+    box-shadow: 0 0 40px rgba(67, 181, 129, 0.5);
+    animation: konamiGlow 2s ease-in-out infinite;
+}
+
+@keyframes konamiGlow {
+    0%, 100% {
+        box-shadow: 0 0 40px rgba(67, 181, 129, 0.5);
+    }
+    50% {
+        box-shadow: 0 0 60px rgba(67, 181, 129, 0.8);
+    }
+}
+
+.konami-speech-line {
+    font-size: 1.3rem;
+    line-height: 1.8;
+    color: var(--monika-primary);
+    font-weight: 600;
+    text-shadow: 0 0 10px rgba(67, 181, 129, 0.5);
+}
+
+.btn-secret {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem 3rem;
+    border: 3px solid var(--monika-primary);
+    border-radius: 15px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--monika-dark) 0%, var(--monika-primary) 100%);
+    color: var(--ddlc-white);
+    box-shadow: 0 0 30px rgba(67, 181, 129, 0.6);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-secret::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+    transition: left 0.6s;
+}
+
+.btn-secret:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 0 50px rgba(67, 181, 129, 0.9);
+    border-color: var(--monika-secondary);
+}
+
+.btn-secret:hover::before {
+    left: 100%;
+}
+
+.btn-secret .btn-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    animation: musicPulse 2s ease-in-out infinite;
+}
+
+@keyframes musicPulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+        box-shadow: 0 0 30px rgba(67, 181, 129, 0.6);
+    }
+    50% {
+        transform: scale(1.05);
+        box-shadow: 0 0 50px rgba(67, 181, 129, 0.9);
+    }
+}
+
+/* ===================================
+   RESPONSIVIDADE
+   =================================== */
+
+@media (max-width: 768px) {
+    .monika-section {
+        flex-direction: column;
+        gap: 2rem;
+        padding: 2rem 1rem;
+    }
+
+    .monika-image {
+        width: 250px;
+    }
+
+    .monika-speech::before,
+    .monika-speech::after {
+        display: none;
+    }
+
+    .error-number {
+        font-size: 5rem;
+    }
+
+    .key-text {
+        font-size: 0.75rem;
+        position: static;
+        text-align: center;
+        margin: 1rem;
+        opacity: 0.5;
+    }
+
+    .terminal-header {
+        padding: 1rem;
+    }
+
+    .terminal-line {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .error-number {
+        font-size: 4rem;
+    }
+
+    .monika-image {
+        width: 200px;
+    }
+
+    .monika-speech {
+        padding: 1.5rem;
+    }
+
+    .speech-line {
+        font-size: 1rem;
+    }
+}

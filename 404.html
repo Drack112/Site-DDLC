@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="404 - Página não encontrada. Monika passou por aqui.">
+    <title>404 - Monika passou por aqui</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/system/img/logo.png">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/system/css/sub_sites.css">
+    <link rel="stylesheet" href="/system/css/404.css">
+</head>
+<body>
+    <!-- TODO: remover quando Monika permitir -->
+    
+    <!-- Header Terminal -->
+    <header class="terminal-header">
+        <div class="terminal-line" id="line1"></div>
+        <div class="terminal-line" id="line2"></div>
+        <div class="terminal-line" id="line3"></div>
+    </header>
+
+    <!-- Textos-chave espalhados -->
+    <div class="key-text key-text-1">Nem todo erro é um acidente.</div>
+    <div class="key-text key-text-2">Algumas páginas preferem não ser encontradas.</div>
+    <div class="key-text key-text-3">Se algo quebrou… fui eu.</div>
+    <div class="key-text key-text-4">Você sabe programar, né? Então sabe que isso é intencional.</div>
+
+    <!-- Seção Monika -->
+    <section class="monika-section">
+        <div class="monika-image-container">
+            <img src="/system/html/img/monika-after-story.jpg" alt="Monika" class="monika-image">
+        </div>
+        <div class="monika-speech">
+            <p class="speech-line" id="speech1">Hm… isso não faz parte do roteiro.</p>
+            <p class="speech-line" id="speech2">Você tentou acessar algo que não existe.</p>
+            <p class="speech-line" id="speech3">Ou talvez… que eu apaguei.</p>
+        </div>
+    </section>
+
+    <!-- Número do erro com glitch -->
+    <div class="error-number-container">
+        <span class="error-number number-shift" id="errorNumber">404</span>
+    </div>
+
+    <!-- Console de Erros -->
+    <section class="error-console">
+        <div class="console-header">
+            <span class="console-title">SYSTEM CONSOLE</span>
+        </div>
+        <div class="console-logs" id="consoleLogs">
+            <!-- Logs serão adicionados via JavaScript -->
+        </div>
+    </section>
+
+    <!-- Botões -->
+    <section class="buttons-section">
+        <a href="/index.html" class="btn-monika">
+            <span class="btn-icon">↩</span>
+            <span class="btn-text">Voltar para o Index</span>
+            <span class="btn-subtext">Antes que eu mude de ideia.</span>
+        </a>
+        
+        <button class="btn-danger runaway-button" id="resetButton">
+            <span class="btn-icon">🗑</span>
+            <span class="btn-text">Resetar Estado</span>
+        </button>
+    </section>
+
+    <!-- Elemento fantasma -->
+    <div class="ghost-element" id="ghostElement">
+        <p>Você me encontrou.</p>
+    </div>
+
+    <!-- Áudio para Konami Code -->
+    <audio id="monikaMusic" preload="auto" crossorigin="anonymous">
+        <source src="/system/musica/Monika_-_Your_Reality_(mp3.pm).mp3" type="audio/mpeg">
+        Seu navegador não suporta o elemento de áudio.
+    </audio>
+
+    <!-- Seção Konami Code (oculta inicialmente) -->
+    <section class="konami-section" id="konamiSection" style="display: none;">
+        <div class="monika-speech konami-speech">
+            <p class="speech-line konami-speech-line" id="konamiSpeech">
+                Então você conhece os atalhos…<br>
+                programadores sempre encontram o caminho.
+            </p>
+        </div>
+        <button class="btn-secret" id="secretButton">
+            <span class="btn-icon">🎹</span>
+            <span class="btn-text">Modo Confessional</span>
+        </button>
+    </section>
+
+    <!-- Footer Irônico -->
+    <footer class="footer-ironic">
+        <div class="footer-line">MONIKA SYSTEM INTERFACE v1.0</div>
+        <div class="footer-line">404 is a feature, not a bug.</div>
+        <div class="footer-line-alt">Projeto comunitário.</div>
+        <div class="footer-line-alt">Algumas decisões foram minhas.</div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="/system/js/404.js"></script>
+</body>
+</html>
